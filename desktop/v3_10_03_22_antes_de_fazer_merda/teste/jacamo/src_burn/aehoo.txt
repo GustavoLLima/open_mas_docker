@@ -1,0 +1,41 @@
+// beliefs and rules
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_21]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::clear_source_self([],[]).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+joinedWsp(cobj_0,main,"/main")[artifact_id(cobj_1),artifact_name(session_sample_agent),percept_type(obs_prop),source(percept),workspace("/main",cobj_0)].
+joined(WksName,WksId) :- joinedWsp(WksId,WksName,_6).
+oi[source(ag1)].
+focused(WksName,ArtName[artifact_type(Type)],ArtId) :- focusing(ArtId,ArtName,Type,_4,WksName,_5).
+
+
+// initial goals
+
+
+// plans from file:src/agt/sample_agent.asl
+
+@p__1[source(self),url("file:src/agt/sample_agent.asl")] +oi <- .save_agent("aehoo.txt"); -oi; ?oi; .print("oi").
+@p__2[source(self),url("file:src/agt/sample_agent.asl")] +!start <- .print("hello world2.").
+
+
+// plans from jar:file:C:\Users\Gustavo\.gradle\caches\modules-2\files-2.1\org.jacamo\jacamo\1.0\bda076187adb93bc05a91ab0cdcb2fb44b039ed6\jacamo-1.0.jar!/templates/common-moise.asl
+
+@l_focus_on_my_scheme[atomic,source(self),url("jar:file:C:\Users\Gustavo\.gradle\caches\modules-2\files-2.1\org.jacamo\jacamo\1.0\bda076187adb93bc05a91ab0cdcb2fb44b039ed6\jacamo-1.0.jar!/templates/common-moise.asl")] +schemes(L)[artifact_name(GroupName),workspace(_7,W)] <- .foreach(.member(S,L),{ lookupArtifact(S,ArtId)[wid(W)]; focus(ArtId)[wid(W)]; .concat(GroupName,".",S,NBName); lookupArtifact(NBName,NBId)[wid(W)]; focus(NBId)[wid(W)] }).
+@p__8[source(self),url("jar:file:C:\Users\Gustavo\.gradle\caches\modules-2\files-2.1\org.jacamo\jacamo\1.0\bda076187adb93bc05a91ab0cdcb2fb44b039ed6\jacamo-1.0.jar!/templates/common-moise.asl")] +!jcm::initial_roles([],_8).
+@p__9[source(self),url("jar:file:C:\Users\Gustavo\.gradle\caches\modules-2\files-2.1\org.jacamo\jacamo\1.0\bda076187adb93bc05a91ab0cdcb2fb44b039ed6\jacamo-1.0.jar!/templates/common-moise.asl")] +!jcm::initial_roles(L,0) <- .print("Error with initial role ",L).
+@l_focus_org_art[atomic,source(self),url("jar:file:C:\Users\Gustavo\.gradle\caches\modules-2\files-2.1\org.jacamo\jacamo\1.0\bda076187adb93bc05a91ab0cdcb2fb44b039ed6\jacamo-1.0.jar!/templates/common-moise.asl")] +!jcm::initial_roles([H|T],Try) <- !jcm::initial_roles(H,Try); !jcm::initial_roles(T,Try).
+@p__10[source(self),url("jar:file:C:\Users\Gustavo\.gradle\caches\modules-2\files-2.1\org.jacamo\jacamo\1.0\bda076187adb93bc05a91ab0cdcb2fb44b039ed6\jacamo-1.0.jar!/templates/common-moise.asl")] +!jcm::initial_roles(role(O,G,R),Try) <- .concat("/main/",O,FullO); joinWorkspace(FullO,WId); !jcm::focus_orgBoard(O,WId); lookupArtifact(G,GId)[wid(WId)]; focus(GId)[wid(WId)]; adoptRole(R)[artifact_id(GId)].
+@p__11[source(self),url("jar:file:C:\Users\Gustavo\.gradle\caches\modules-2\files-2.1\org.jacamo\jacamo\1.0\bda076187adb93bc05a91ab0cdcb2fb44b039ed6\jacamo-1.0.jar!/templates/common-moise.asl")] -!jcm::initial_roles(L,Try) <- .wait(200); !jcm::initial_roles(L,(Try-1)).
+@p__12[source(self),url("jar:file:C:\Users\Gustavo\.gradle\caches\modules-2\files-2.1\org.jacamo\jacamo\1.0\bda076187adb93bc05a91ab0cdcb2fb44b039ed6\jacamo-1.0.jar!/templates/common-moise.asl")] +!jcm::focus_orgBoard(O,WId) : focused(_9,O,_10).
+@p__13[source(self),url("jar:file:C:\Users\Gustavo\.gradle\caches\modules-2\files-2.1\org.jacamo\jacamo\1.0\bda076187adb93bc05a91ab0cdcb2fb44b039ed6\jacamo-1.0.jar!/templates/common-moise.asl")] +!jcm::focus_orgBoard(O,WId) <- lookupArtifact(O,OId)[wid(WId)]; focus(OId)[wid(WId)].
+
+
+// plans from jar:file:C:\Users\Gustavo\.gradle\caches\modules-2\files-2.1\org.jacamo\jacamo\1.0\bda076187adb93bc05a91ab0cdcb2fb44b039ed6\jacamo-1.0.jar!/templates/common-cartago.asl
+
+@p__3[source(self),url("jar:file:C:\Users\Gustavo\.gradle\caches\modules-2\files-2.1\org.jacamo\jacamo\1.0\bda076187adb93bc05a91ab0cdcb2fb44b039ed6\jacamo-1.0.jar!/templates/common-cartago.asl")] +!jcm::focus_env_art([],_1).
+@p__4[source(self),url("jar:file:C:\Users\Gustavo\.gradle\caches\modules-2\files-2.1\org.jacamo\jacamo\1.0\bda076187adb93bc05a91ab0cdcb2fb44b039ed6\jacamo-1.0.jar!/templates/common-cartago.asl")] +!jcm::focus_env_art(L,0) <- .print("Error focusing on environment artifact ",L).
+@lf_env_art[atomic,source(self),url("jar:file:C:\Users\Gustavo\.gradle\caches\modules-2\files-2.1\org.jacamo\jacamo\1.0\bda076187adb93bc05a91ab0cdcb2fb44b039ed6\jacamo-1.0.jar!/templates/common-cartago.asl")] +!jcm::focus_env_art([H|T],Try) <- !jcm::focus_env_art(H,Try); !jcm::focus_env_art(T,Try).
+@p__5[source(self),url("jar:file:C:\Users\Gustavo\.gradle\caches\modules-2\files-2.1\org.jacamo\jacamo\1.0\bda076187adb93bc05a91ab0cdcb2fb44b039ed6\jacamo-1.0.jar!/templates/common-cartago.asl")] +!jcm::focus_env_art(art_env(W,"",_2),Try) <- .concat("/main/",W,FullW); joinWorkspace(FullW,_3); .print("joinned workspace ",FullW).
+@p__6[source(self),url("jar:file:C:\Users\Gustavo\.gradle\caches\modules-2\files-2.1\org.jacamo\jacamo\1.0\bda076187adb93bc05a91ab0cdcb2fb44b039ed6\jacamo-1.0.jar!/templates/common-cartago.asl")] +!jcm::focus_env_art(art_env(W,A,NS),Try) <- .concat("/main/",W,FullW); .print("focusing on artifact ",A," (at workspace ",FullW,") using namespace ",NS); joinWorkspace(FullW,WId); lookupArtifact(A,AId)[wid(WId)]; NS::focus(AId)[wid(WId)].
+@p__7[source(self),url("jar:file:C:\Users\Gustavo\.gradle\caches\modules-2\files-2.1\org.jacamo\jacamo\1.0\bda076187adb93bc05a91ab0cdcb2fb44b039ed6\jacamo-1.0.jar!/templates/common-cartago.asl")] -!jcm::focus_env_art(L,Try) <- .print("waiting a bit to focus on ",L," try #",Try); .wait(200); !jcm::focus_env_art(L,(Try-1)).
+

@@ -1,0 +1,6 @@
+logs/**
+
+
+teste/important/**
+# exception to the rule
+!teste/important/.gitkeep

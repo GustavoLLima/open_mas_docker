@@ -1,0 +1,8 @@
+mylib/aaa_my_delete_ag.java
+ mylib.aaa_my_delete_ag
+mylib/my_delete_ag.java
+ mylib.my_delete_ag
+mylib/aaa_my_create_ag.java
+ mylib.aaa_my_create_ag
+tools/Counter.java
+ tools.Counter

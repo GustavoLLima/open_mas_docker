@@ -1,0 +1,10 @@
+mylib/my_delete_ag.java
+ mylib.my_delete_ag
+mylib/my_bb_ag.java
+ mylib.my_bb_ag
+mylib/TestEnv.java
+ TestEnv
+tools/Counter.java
+ tools.Counter
+mylib/my_create_ag.java
+ mylib.my_create_ag
