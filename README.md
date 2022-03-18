@@ -18,4 +18,3 @@ Depois de ter tudo configurado, basta rodar:
 ```
 docker-compose up -d
 ```
-"# open_mas_docker" 

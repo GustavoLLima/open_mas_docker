@@ -1,0 +1,23 @@
+// Agent sample_agent in project juntando_jason_jacamo
+
+/* Initial beliefs and rules */
+
+/* Initial goals */
+
+!start.
+
++oi <-
+		.save_agent("aehoo.txt");
+		-oi;
+		?oi;
+		.print("oi").
+
+/* Plans */
+
++!start : true <- .print("hello world2.").
+
+{ include("$jacamoJar/templates/common-cartago.asl") }
+{ include("$jacamoJar/templates/common-moise.asl") }
+
+// uncomment the include below to have an agent compliant with its organisation
+//{ include("$moiseJar/asl/org-obedient.asl") }

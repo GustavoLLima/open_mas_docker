@@ -1,0 +1,17 @@
+// beliefs and rules
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_29]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::clear_source_self([],[]).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+joinedWsp(cobj_0,main,"/main")[artifact_id(cobj_1),artifact_name(session_ag1),percept_type(obs_prop),source(percept),workspace("/main",cobj_0)].
+hello[source(bob),source(lalala)].
+
+
+// initial goals
+
+
+// plans from file:src/agt/ag1.asl
+
+@p__4[source(self),url("file:src/agt/ag1.asl")] +!start <- .my_name(X); .print("Meu nome e: ",X); .wait(1000); .print("Salvando agente..."); .save_agent("ag1.txt"); .print("Salvo!"); .send(bob,tell,save_and_kill); .print("Mensagem enviada pra bob"); .send(bob,tell,soma(ae,dale)); !start.
+@p__5[source(self),url("file:src/agt/ag1.asl")] +hello[source(A)] <- .print("Recebi a mensagem de ",A); .print("Preciso descobrir como eliminar ele"); .kill_agent(bob); .print("Matei o bob, criando agente com base no asl"); .create_agent(lalala,"aehoo.asl"); .send(lalala,tell,hello); .print("Agente criado").
+

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<script type="text/javascript" language="javascript" src="diff.js"></script>
+	<script type="text/javascript">
+		var Diff = require('text-diff');
+
+		var diff = new Diff(); // options may be passed to constructor; see below
+		var textDiff = diff.main('text1', 'text2'); // produces diff array
+		diff.prettyHtml(textDiff); // produces a formatted HTML string
+	</script>
+</body>
+</html>

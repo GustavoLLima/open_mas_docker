@@ -1,0 +1,3 @@
+megazor, começou com comunicação entre agentes, passei pra função que recebe e escreve parâmetros, escolhe a gente pra morrer
+
+agora tem um agente normal, manda outro salvar, o outro devolve uma resposta pra deletar, mas está atrelado a 1 nome, ver como passar o nome pela comunicacao

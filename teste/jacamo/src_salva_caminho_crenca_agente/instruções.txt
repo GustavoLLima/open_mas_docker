@@ -1,0 +1,10 @@
+pra funcionar, precisa adicionar o receive 3 dentro da pasta do src (não é no volume)
+
+as funções do java tem variável pra determinar se ta testando no gradlew ou no docker
+
+iniciam 3 agentes:
+- normal_agent - só fica printando a cada 1s
+- check_file_agent - a cada 1s chama o arquivo do aaa_mycreate -> lê o receive 3, pega as info, cria um agente (usando o regular_agent.asl) colocando crenças pra sugar/metabolism/vision, e cria crenças previous_0, _1 e _2 (dados do caminho, tupla pro sistema) pra juntar depois. O regular_agent Começa, concatena seu nome, salva o arquivo em src/agt/list/ID.asl, depois de salvar, manda send(killer_agent, tell, kill(X), chamando o killer_agent.
+- killer_agent - Recebe a requisição do regular_agent, chama o aaa_mydelete. Por enquanto não deleta o agente. o AAA_myagent por enquanto não ta fazendo nada
+
+** O REGULAR AGENTE JÁ SALVA NAS CRENÇAS AS 3 PARTES DO CAMINHO PRA TUPLA DO SISTEMA, O KILLER_AGENT RECEBE, JÁ JUNTA E TAL, SÓ PRECISA COLOCAR ASPAS E COLCHETES**
