@@ -1,0 +1,5 @@
+py:run "raise Exception('hi')"
+
+imprimir quais entrariam no próximo ciclo
+
+EXCEÇÕES: USAR GENÉRICAS

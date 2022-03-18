@@ -1,0 +1,11 @@
+INSERT INTO `router` (`id`, `data`, `proccessed`, `created_at`, `updated_at`) VALUES (NULL, '[\"agent\" 282 0 1 1 1]', '0', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP), (NULL, '[\"agent\" 249 -1 4 4 1]', '0', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+
+INSERT INTO `m1` (`id`, `agent_id`, `data`, `path`, `asl_file_path`, `proccessed`, `created_at`, `updated_at`) VALUES (NULL, '1', '[1 2 3]', '1-1', '', '0', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP), (NULL, '2', '[7 8 9]', '3-1', '', '0', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+
+UPDATE m1 SET proccessed = 0
+
+INSERT INTO `router` (`id`, `agent_id`, `data`, `path`, `asl_file_path`, `proccessed`, `created_at`, `updated_at`) VALUES (NULL, '1', '[1 2 3]', '1-1', '', '0', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP), (NULL, '2', '[7 8 9]', '3-1', '', '0', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+
+START TRANSACTION;
+INSERT INTO `m1` (`id`, `data`, `proccessed`, `created_at`, `updated_at`) VALUES (NULL, '[\"agent\" 282 0 1 1 1]', '0', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP), (NULL, '[\"agent\" 249 -1 4 4 1]', '0', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+ROLLBACK;

@@ -1,0 +1,1 @@
+ask turtles [ if(agent_id = 603) [ print agent_id ] ]

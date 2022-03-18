@@ -1,0 +1,499 @@
+ta montando certo, só printa na hora errada...
+
+(se pá ta certo, pode estar só fora de ordem mesmo): 716 -1 4 5 | 2-3 | s -1 m4 v5 Java full path string: ["agent" 716 -1 4 5 "2-3-3"]
+
+571,177,159,395,222,329,292,404,364,699,16,16,446,592,141,473,25,534,350,477,403,5,311,5,534,25,419,164,770,570/1,258/1,350/2,341/1,645/1,606/1,416/1,64/1,557/1,711/1,384/1,310/1,474/1,752/1,794/1,708/1,64/2,759/1,695/1,606/2,167/1,542/1,499/1,246/1,132/1,716/1,784/1, 345/1, 338/1, 611/1, 75/1, 148/1, 734/1, 554/1, 660/1, 101/1,258/2, 246/2, 759/2, 331/1, 95/1, 150/1, 786/1, 242/1, 280/1, 488/1, 769/1, 221/1, 660/2, 776/1, 613/1 - passou pela simulação e usou o .asl certo
+**CONFERIR SE OS AGENTES QUE JÁ PASSARAM PELA SIMULAÇÃO ESTÃO USANDO O .ASL CERTO**
+Sugestão pra próxima: imprimir output + general
+(conferidos no general)
+(todos estão no send3)
+caminho | apareceu entrando no jacamo? | aparentemente, fora de ordem, mas parece estar certo o encaminhamento?
+18 - 1 | s | s
+
+2022-03-11T01:24:55.449600700Z Linha: ["agent" 18 -3 3 2 1]
+2022-03-11T01:24:55.449603100Z ID do agente: 18
+2022-03-11T01:24:55.449605400Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("18 -3 3 2"),previous_2("1"), sugar(-3), metabolism(3), vision(2)
+2022-03-11T01:24:55.449608200Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:55.449610700Z Executing JAVA custom code - delete
+2022-03-11T01:24:55.449613200Z Java Args0: "agent"
+2022-03-11T01:24:55.449615500Z Java Args1: "477 0 3 4"
+2022-03-11T01:24:55.449617900Z Java Args2: "2-3"
+2022-03-11T01:24:55.449620300Z Java Args3(id): 477
+2022-03-11T01:24:55.449622500Z Java Args4: 0
+2022-03-11T01:24:55.449624900Z Java Args5: 3
+2022-03-11T01:24:55.449627300Z Java Args6: 4
+2022-03-11T01:24:55.449629700Z Args[2]: "2-3" - Custom_Args[2]: 2-3
+2022-03-11T01:24:55.449632200Z Java full path string: ["agent" 477 0 3 4 "2-3-3"]
+
+29 - 1 | s | s
+
+2022-03-11T01:25:00.470046400Z Linha: ["agent" 29 -2 4 6 1]
+2022-03-11T01:25:00.470072600Z ID do agente: 29
+2022-03-11T01:25:00.470080900Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("29 -2 4 6"),previous_2("1"), sugar(-2), metabolism(4), vision(6)
+2022-03-11T01:25:00.470085400Z asl_file_name: regular_agent.asl
+2022-03-11T01:25:00.470091400Z Executing JAVA custom code - delete
+2022-03-11T01:25:00.470093800Z Java Args0: "agent"
+2022-03-11T01:25:00.470096100Z Java Args1: "557 -2 4 4"
+2022-03-11T01:25:00.470098400Z Java Args2: "2-3-2"
+2022-03-11T01:25:00.470100500Z Java Args3(id): 557
+2022-03-11T01:25:00.470102700Z Java Args4: -2
+2022-03-11T01:25:00.470104900Z Java Args5: 4
+2022-03-11T01:25:00.470107000Z Java Args6: 4
+2022-03-11T01:25:00.470109200Z Args[2]: "2-3-2" - Custom_Args[2]: 2-3-2
+2022-03-11T01:25:00.470111500Z Java full path string: ["agent" 557 -2 4 4 "2-3-2-3"]
+
+57 - 1 | s | s
+
+2022-03-11T01:24:44.648680300Z Linha: ["agent" 57 -1 2 1 1]
+2022-03-11T01:24:44.648682700Z ID do agente: 57
+2022-03-11T01:24:44.649258200Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("57 -1 2 1"),previous_2("1"), sugar(-1), metabolism(2), vision(1)
+2022-03-11T01:24:44.649528900Z Agente removido da simulação...
+2022-03-11T01:24:44.649537300Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:44.649576900Z Executing JAVA custom code - delete
+2022-03-11T01:24:44.649581200Z Java Args0: "agent"
+2022-03-11T01:24:44.649583500Z Java Args1: "25 -1 3 3"
+2022-03-11T01:24:44.649585800Z Java Args2: "1"
+2022-03-11T01:24:44.649588000Z Java Args3(id): 25
+2022-03-11T01:24:44.649590200Z Java Args4: -1
+2022-03-11T01:24:44.649592400Z Java Args5: 3
+2022-03-11T01:24:44.649594500Z Java Args6: 3
+2022-03-11T01:24:44.649596600Z Args[2]: "1" - Custom_Args[2]: 1
+2022-03-11T01:24:44.649599300Z Java full path string: ["agent" 25 -1 3 3 "1-3"]
+
+160 - "1-1" | s | s
+
+2022-03-11T01:25:00.469429500Z Linha: ["agent" 160 0 2 4 "1-1"]
+2022-03-11T01:25:00.469432400Z ID do agente: 160
+2022-03-11T01:25:00.469435400Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("160 0 2 4"),previous_2("1-1"), sugar(0), metabolism(2), vision(4)
+2022-03-11T01:25:00.469438800Z asl_file_name: regular_agent.asl
+2022-03-11T01:25:00.469442000Z Executing JAVA custom code - delete
+2022-03-11T01:25:00.469445100Z Java Args0: "agent"
+2022-03-11T01:25:00.469448200Z Java Args1: "716 -1 4 5"
+2022-03-11T01:25:00.469451100Z Java Args2: "2"
+2022-03-11T01:25:00.469458700Z Java Args3(id): 716
+2022-03-11T01:25:00.469462200Z Java Args4: -1
+2022-03-11T01:25:00.469465100Z Java Args5: 4
+2022-03-11T01:25:00.469468200Z Java Args6: 5
+2022-03-11T01:25:00.469471000Z Args[2]: "2" - Custom_Args[2]: 2
+2022-03-11T01:25:00.469474100Z Java full path string: ["agent" 716 -1 4 5 "2-3"]
+
+161 - 1 | s | s
+
+2022-03-11T01:24:44.650738900Z Linha: ["agent" 161 -1 3 4 1]
+2022-03-11T01:24:44.650741600Z ID do agente: 161
+2022-03-11T01:24:44.650744600Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("161 -1 3 4"),previous_2("1"), sugar(-1), metabolism(3), vision(4)
+2022-03-11T01:24:44.650747500Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:44.650749800Z Executing JAVA custom code - delete
+2022-03-11T01:24:44.650752500Z Java Args0: "agent"
+2022-03-11T01:24:44.650755200Z Java Args1: "571 0 2 5"
+2022-03-11T01:24:44.650758500Z Java Args2: "2"
+2022-03-11T01:24:44.650765900Z Java Args3(id): 571
+2022-03-11T01:24:44.650768800Z Java Args4: 0
+2022-03-11T01:24:44.650817600Z Java Args5: 2
+2022-03-11T01:24:44.650981600Z Java Args6: 5
+2022-03-11T01:24:44.650988600Z Args[2]: "2" - Custom_Args[2]: 2
+2022-03-11T01:24:44.650992500Z Java full path string: ["agent" 571 0 2 5 "2-3"]
+
+172 - 1 | s | s
+
+2022-03-11T01:24:56.703559100Z Linha: ["agent" 172 0 3 3 1]
+2022-03-11T01:24:56.703562200Z ID do agente: 172
+2022-03-11T01:24:56.703565100Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("172 0 3 3"),previous_2("1"), sugar(0), metabolism(3), vision(3)
+2022-03-11T01:24:56.703569200Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:56.703572300Z Executing JAVA custom code - delete
+2022-03-11T01:24:56.703575600Z Java Args0: "agent"
+2022-03-11T01:24:56.703579200Z Java Args1: "124 -1 1 1"
+2022-03-11T01:24:56.703582100Z Java Args2: "1"
+2022-03-11T01:24:56.703584900Z Java Args3(id): 124
+2022-03-11T01:24:56.703588100Z Java Args4: -1
+2022-03-11T01:24:56.703591500Z Java Args5: 1
+2022-03-11T01:24:56.703594800Z Java Args6: 1
+2022-03-11T01:24:56.703597500Z Args[2]: "1" - Custom_Args[2]: 1
+2022-03-11T01:24:56.703600000Z Java full path string: ["agent" 124 -1 1 1 "1-3"]
+
+228 - 1 | s | s
+
+2022-03-11T01:24:54.446424100Z Linha: ["agent" 228 -4 4 5 1]
+2022-03-11T01:24:54.446426400Z ID do agente: 228
+2022-03-11T01:24:54.446434900Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("228 -4 4 5"),previous_2("1"), sugar(-4), metabolism(4), vision(5)
+2022-03-11T01:24:54.446450200Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:54.446454500Z Executing JAVA custom code - delete
+2022-03-11T01:24:54.446457400Z Java Args0: "agent"
+2022-03-11T01:24:54.446460800Z Java Args1: "254 -2 3 1"
+2022-03-11T01:24:54.446463800Z Java Args2: "1-1-1"
+2022-03-11T01:24:54.446466700Z Java Args3(id): 254
+2022-03-11T01:24:54.446469700Z Java Args4: -2
+2022-03-11T01:24:54.446473400Z Java Args5: 3
+2022-03-11T01:24:54.446476300Z Java Args6: 1
+2022-03-11T01:24:54.446479200Z Args[2]: "1-1-1" - Custom_Args[2]: 1-1-1
+2022-03-11T01:24:54.446482600Z Java full path string: ["agent" 254 -2 3 1 "1-1-1-3"]
+
+236 - "1-1" | s | s
+
+2022-03-11T01:24:52.188685900Z Linha: ["agent" 236 -2 3 1 "1-1"]
+2022-03-11T01:24:52.188690500Z ID do agente: 236
+2022-03-11T01:24:52.188701000Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("236 -2 3 1"),previous_2("1-1"), sugar(-2), metabolism(3), vision(1)
+2022-03-11T01:24:52.188705000Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:52.188708000Z Executing JAVA custom code - delete
+2022-03-11T01:24:52.188710800Z Java Args0: "agent"
+2022-03-11T01:24:52.188713900Z Java Args1: "446 -2 4 6"
+2022-03-11T01:24:52.188717000Z Java Args2: "2"
+2022-03-11T01:24:52.188735100Z Java Args3(id): 446
+2022-03-11T01:24:52.188743700Z Java Args4: -2
+2022-03-11T01:24:52.188747200Z Java Args5: 4
+2022-03-11T01:24:52.188750400Z Java Args6: 6
+2022-03-11T01:24:52.188753600Z Args[2]: "2" - Custom_Args[2]: 2
+2022-03-11T01:24:52.188756500Z Java full path string: ["agent" 446 -2 4 6 "2-3"]
+
+249 - 1 | s | s
+
+2022-03-11T01:24:46.163912700Z Linha: ["agent" 249 -2 2 2 1]
+2022-03-11T01:24:46.163919100Z ID do agente: 249
+2022-03-11T01:24:46.163921900Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("249 -2 2 2"),previous_2("1"), sugar(-2), metabolism(2), vision(2)
+2022-03-11T01:24:46.163925100Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:46.163927900Z Executing JAVA custom code - delete
+2022-03-11T01:24:46.163930400Z Java Args0: "agent"
+2022-03-11T01:24:46.163933100Z Java Args1: "713 -1 2 1"
+2022-03-11T01:24:46.163935800Z Java Args2: "2"
+2022-03-11T01:24:46.163982800Z Java Args3(id): 713
+2022-03-11T01:24:46.164003000Z Java Args4: -1
+2022-03-11T01:24:46.164007500Z Java Args5: 2
+2022-03-11T01:24:46.164050900Z Java Args6: 1
+2022-03-11T01:24:46.164065700Z Args[2]: "2" - Custom_Args[2]: 2
+2022-03-11T01:24:46.164069200Z Java full path string: ["agent" 713 -1 2 1 "2-3"]
+
+296 - 1 | s | s
+
+2022-03-11T01:24:48.422993400Z Linha: ["agent" 296 -1 3 2 1]
+2022-03-11T01:24:48.422996300Z ID do agente: 296
+2022-03-11T01:24:48.422998900Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("296 -1 3 2"),previous_2("1"), sugar(-1), metabolism(3), vision(2)
+2022-03-11T01:24:48.423002500Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:48.423006300Z Executing JAVA custom code - delete
+2022-03-11T01:24:48.423009300Z Java Args0: "agent"
+2022-03-11T01:24:48.423013600Z Java Args1: "71 -1 3 3"
+2022-03-11T01:24:48.423016600Z Java Args2: "1"
+2022-03-11T01:24:48.423019400Z Java Args3(id): 71
+2022-03-11T01:24:48.423021700Z Java Args4: -1
+2022-03-11T01:24:48.423024100Z Java Args5: 3
+2022-03-11T01:24:48.423026600Z Java Args6: 3
+2022-03-11T01:24:48.423029200Z Args[2]: "1" - Custom_Args[2]: 1
+2022-03-11T01:24:48.423068200Z Java full path string: ["agent" 71 -1 3 3 "1-3"]
+
+358 - 1 | s | s
+
+2022-03-11T01:24:53.192025300Z Linha: ["agent" 358 -1 3 5 1]
+2022-03-11T01:24:53.192028500Z ID do agente: 358
+2022-03-11T01:24:53.192032400Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("358 -1 3 5"),previous_2("1"), sugar(-1), metabolism(3), vision(5)
+2022-03-11T01:24:53.192036100Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:53.192039000Z Executing JAVA custom code - delete
+2022-03-11T01:24:53.192122200Z Java Args0: "agent"
+2022-03-11T01:24:53.192131000Z Java Args1: "194 -3 4 2"
+2022-03-11T01:24:53.192134700Z Java Args2: "1-2-2"
+2022-03-11T01:24:53.192138000Z Java Args3(id): 194
+2022-03-11T01:24:53.192140900Z Java Args4: -3
+2022-03-11T01:24:53.192143600Z Java Args5: 4
+2022-03-11T01:24:53.192146100Z Java Args6: 2
+2022-03-11T01:24:53.192148700Z Args[2]: "1-2-2" - Custom_Args[2]: 1-2-2
+2022-03-11T01:24:53.192151600Z Java full path string: ["agent" 194 -3 4 2 "1-2-2-3"]
+
+359 - "1-2-1" | s | s
+
+2022-03-11T01:24:48.423423500Z Linha: ["agent" 359 -3 4 2 "1-2-1"]
+2022-03-11T01:24:48.423441400Z ID do agente: 359
+2022-03-11T01:24:48.423446300Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("359 -3 4 2"),previous_2("1-2-1"), sugar(-3), metabolism(4), vision(2)
+2022-03-11T01:24:48.423488200Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:48.423505900Z Executing JAVA custom code - delete
+2022-03-11T01:24:48.423509800Z Java Args0: "agent"
+2022-03-11T01:24:48.423515000Z Java Args1: "211 0 3 1"
+2022-03-11T01:24:48.423580800Z Java Args2: "1"
+2022-03-11T01:24:48.423600300Z Java Args3(id): 211
+2022-03-11T01:24:48.423604900Z Java Args4: 0
+2022-03-11T01:24:48.423608000Z Java Args5: 3
+2022-03-11T01:24:48.423610900Z Java Args6: 1
+2022-03-11T01:24:48.423613500Z Args[2]: "1" - Custom_Args[2]: 1
+2022-03-11T01:24:48.423616100Z Java full path string: ["agent" 211 0 3 1 "1-3"]
+
+401 - "2-1" | s | s
+
+2022-03-11T01:25:03.980404100Z Linha: ["agent" 401 -1 3 2 "2-1"]
+2022-03-11T01:25:03.980406900Z ID do agente: 401
+2022-03-11T01:25:03.980409400Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("401 -1 3 2"),previous_2("2-1"), sugar(-1), metabolism(3), vision(2)
+2022-03-11T01:25:03.980412400Z asl_file_name: regular_agent.asl
+2022-03-11T01:25:03.980415000Z Executing JAVA custom code - delete
+2022-03-11T01:25:03.980417600Z Java Args0: "agent"
+2022-03-11T01:25:03.980420000Z Java Args1: "338 0 3 5"
+2022-03-11T01:25:03.980422500Z Java Args2: "1-1-3-1"
+2022-03-11T01:25:03.980424800Z Java Args3(id): 338
+2022-03-11T01:25:03.980427000Z Java Args4: 0
+2022-03-11T01:25:03.980429500Z Java Args5: 3
+2022-03-11T01:25:03.980432100Z Java Args6: 5
+2022-03-11T01:25:03.980434600Z Args[2]: "1-1-3-1" - Custom_Args[2]: 1-1-3-1
+2022-03-11T01:25:03.980436900Z Java full path string: ["agent" 338 0 3 5 "1-1-3-1-3"]
+
+437 - 2 | s | s
+
+2022-03-11T01:24:57.958419400Z Linha: ["agent" 437 0 4 3 2]
+2022-03-11T01:24:57.958435100Z ID do agente: 437
+2022-03-11T01:24:57.958439000Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("437 0 4 3"),previous_2("2"), sugar(0), metabolism(4), vision(3)
+2022-03-11T01:24:57.958442200Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:57.958444600Z Executing JAVA custom code - delete
+2022-03-11T01:24:57.958447100Z Java Args0: "agent"
+2022-03-11T01:24:57.958449600Z Java Args1: "394 0 2 3"
+2022-03-11T01:24:57.958452000Z Java Args2: "1-1"
+2022-03-11T01:24:57.958454500Z Java Args3(id): 394
+2022-03-11T01:24:57.958457000Z Java Args4: 0
+2022-03-11T01:24:57.958546400Z Java Args5: 2
+2022-03-11T01:24:57.958593500Z Java Args6: 3
+2022-03-11T01:24:57.958602000Z Args[2]: "1-1" - Custom_Args[2]: 1-1
+2022-03-11T01:24:57.958605800Z Java full path string: ["agent" 394 0 2 3 "1-1-3"]
+
+497 - "2-1" | s | s
+
+2022-03-11T01:25:01.721665800Z Linha: ["agent" 497 -2 4 2 "2-1"]
+2022-03-11T01:25:01.721668000Z ID do agente: 497
+2022-03-11T01:25:01.721670700Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("497 -2 4 2"),previous_2("2-1"), sugar(-2), metabolism(4), vision(2)
+2022-03-11T01:25:01.721673200Z asl_file_name: regular_agent.asl
+2022-03-11T01:25:01.721675300Z Executing JAVA custom code - delete
+2022-03-11T01:25:01.721679900Z Java Args0: "agent"
+2022-03-11T01:25:01.721682100Z Java Args1: "250 -1 4 5"
+2022-03-11T01:25:01.721684300Z Java Args2: "1-2-1"
+2022-03-11T01:25:01.721686500Z Java Args3(id): 250
+2022-03-11T01:25:01.721688600Z Java Args4: -1
+2022-03-11T01:25:01.721690700Z Java Args5: 4
+2022-03-11T01:25:01.721692800Z Java Args6: 5
+2022-03-11T01:25:01.722638900Z Args[2]: "1-2-1" - Custom_Args[2]: 1-2-1
+2022-03-11T01:25:01.722663100Z Java full path string: ["agent" 250 -1 4 5 "1-2-1-3"]
+
+501 - "2-2" | s | s
+
+2022-03-11T01:24:59.465206300Z Linha: ["agent" 501 -2 4 1 "2-2"]
+2022-03-11T01:24:59.465237000Z ID do agente: 501
+2022-03-11T01:24:59.465290300Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("501 -2 4 1"),previous_2("2-2"), sugar(-2), metabolism(4), vision(1)
+2022-03-11T01:24:59.465328900Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:59.465353900Z Executing JAVA custom code - delete
+2022-03-11T01:24:59.465362500Z Java Args0: "agent"
+2022-03-11T01:24:59.465409500Z Java Args1: "324 -2 4 2"
+2022-03-11T01:24:59.465437300Z Java Args2: "1"
+2022-03-11T01:24:59.465470800Z Java Args3(id): 324
+2022-03-11T01:24:59.465476700Z Java Args4: -2
+2022-03-11T01:24:59.465487200Z Java Args5: 4
+2022-03-11T01:24:59.465490700Z Java Args6: 2
+2022-03-11T01:24:59.465494300Z Args[2]: "1" - Custom_Args[2]: 1
+2022-03-11T01:24:59.465497600Z Java full path string: ["agent" 324 -2 4 2 "1-3"]
+
+514 - "2-2" | s | s
+
+2022-03-11T01:25:01.721160100Z Linha: ["agent" 514 -1 4 1 "2-2"]
+2022-03-11T01:25:01.721162800Z ID do agente: 514
+2022-03-11T01:25:01.721165500Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("514 -1 4 1"),previous_2("2-2"), sugar(-1), metabolism(4), vision(1)
+2022-03-11T01:25:01.721461900Z asl_file_name: regular_agent.asl
+2022-03-11T01:25:01.721484400Z Executing JAVA custom code - delete
+2022-03-11T01:25:01.721498700Z Java Args0: "agent"
+2022-03-11T01:25:01.721510700Z Java Args1: "474 -1 3 1"
+2022-03-11T01:25:01.721514300Z Java Args2: "2-3-1"
+2022-03-11T01:25:01.721517500Z Java Args3(id): 474
+2022-03-11T01:25:01.721521600Z Java Args4: -1
+2022-03-11T01:25:01.721524600Z Java Args5: 3
+2022-03-11T01:25:01.721527400Z Java Args6: 1
+2022-03-11T01:25:01.721530200Z Args[2]: "2-3-1" - Custom_Args[2]: 2-3-1
+2022-03-11T01:25:01.721532800Z Java full path string: ["agent" 474 -1 3 1 "2-3-1-3"]
+
+541 - 2 | s | s
+
+2022-03-11T01:24:56.702823200Z Linha: ["agent" 541 -2 2 2 2]
+2022-03-11T01:24:56.702825900Z ID do agente: 541
+2022-03-11T01:24:56.702828400Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("541 -2 2 2"),previous_2("2"), sugar(-2), metabolism(2), vision(2)
+2022-03-11T01:24:56.702831500Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:56.702834000Z Executing JAVA custom code - delete
+2022-03-11T01:24:56.702843400Z Java Args0: "agent"
+2022-03-11T01:24:56.702846500Z Java Args1: "35 -2 4 2"
+2022-03-11T01:24:56.702849100Z Java Args2: "1-2"
+2022-03-11T01:24:56.702851700Z Java Args3(id): 35
+2022-03-11T01:24:56.702854300Z Java Args4: -2
+2022-03-11T01:24:56.702856800Z Java Args5: 4
+2022-03-11T01:24:56.702875100Z Java Args6: 2
+2022-03-11T01:24:56.702878300Z Args[2]: "1-2" - Custom_Args[2]: 1-2
+2022-03-11T01:24:56.702881200Z Java full path string: ["agent" 35 -2 4 2 "1-2-3"]
+
+561 - "2-2-1" | s | s
+
+2022-03-11T01:24:54.195233900Z Linha: ["agent" 561 -2 4 6 "2-2-1"]
+2022-03-11T01:24:54.195236900Z ID do agente: 561
+2022-03-11T01:24:54.195239400Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("561 -2 4 6"),previous_2("2-2-1"), sugar(-2), metabolism(4), vision(6)
+2022-03-11T01:24:54.195242600Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:54.195245700Z Executing JAVA custom code - delete
+2022-03-11T01:24:54.195248300Z Java Args0: "agent"
+2022-03-11T01:24:54.195257400Z Java Args1: "16 0 1 1"
+2022-03-11T01:24:54.195260300Z Java Args2: "1-3-3"
+2022-03-11T01:24:54.195262700Z Java Args3(id): 16
+2022-03-11T01:24:54.195265400Z Java Args4: 0
+2022-03-11T01:24:54.195268100Z Java Args5: 1
+2022-03-11T01:24:54.195270800Z Java Args6: 1
+2022-03-11T01:24:54.195273700Z Args[2]: "1-3-3" - Custom_Args[2]: 1-3-3
+2022-03-11T01:24:54.195276600Z Java full path string: ["agent" 16 0 1 1 "1-3-3-3"]
+
+576 - 2 | s | s
+
+2022-03-11T01:24:55.449242300Z Linha: ["agent" 576 0 2 1 2]
+2022-03-11T01:24:55.449245200Z ID do agente: 576
+2022-03-11T01:24:55.449248200Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("576 0 2 1"),previous_2("2"), sugar(0), metabolism(2), vision(1)
+2022-03-11T01:24:55.449254800Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:55.449257900Z Executing JAVA custom code - delete
+2022-03-11T01:24:55.449260700Z Java Args0: "agent"
+2022-03-11T01:24:55.449263400Z Java Args1: "158 0 1 6"
+2022-03-11T01:24:55.449266300Z Java Args2: "1"
+2022-03-11T01:24:55.449269100Z Java Args3(id): 158
+2022-03-11T01:24:55.449272100Z Java Args4: 0
+2022-03-11T01:24:55.449274600Z Java Args5: 1
+2022-03-11T01:24:55.449277300Z Java Args6: 6
+2022-03-11T01:24:55.449280200Z Args[2]: "1" - Custom_Args[2]: 1
+2022-03-11T01:24:55.449283200Z Java full path string: ["agent" 158 0 1 6 "1-3"]
+
+**CONFERIR ESSE, TA ESTRANHO** 577 - "2-1" | s | s
+
+2022-03-11T01:24:49.677074300Z Linha: ["agent" 577 0 2 6 "2-1"]
+2022-03-11T01:24:49.677100700Z ID do agente: 577
+2022-03-11T01:24:49.677107000Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("577 0 2 6"),previous_2("2-1"), sugar(0), metabolism(2), vision(6)
+2022-03-11T01:24:49.677148000Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:49.677168000Z Agent created by custom file
+2022-03-11T01:24:49.677172900Z Linha: ["agent" 769 0 2 3 2]
+2022-03-11T01:24:49.677176500Z ID do agente: 769
+2022-03-11T01:24:49.677180100Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("769 0 2 3"),previous_2("2"), sugar(0), metabolism(2), vision(3)
+2022-03-11T01:24:49.677184000Z Adicionando agente no arquivo: /teste/important/general_send_agent.txt
+2022-03-11T01:24:49.677187400Z 
+2022-03-11T01:24:49.677191400Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:49.677194600Z Agente removido da simulação...
+2022-03-11T01:24:49.677197100Z Executing JAVA custom code - delete
+2022-03-11T01:24:49.677200200Z Java Args0: "agent"
+2022-03-11T01:24:49.677202800Z Java Args1: "247 0 3 6"
+2022-03-11T01:24:49.677205600Z Java Args2: "1"
+2022-03-11T01:24:49.677208500Z Java Args3(id): 247
+2022-03-11T01:24:49.677261400Z Java Args4: 0
+2022-03-11T01:24:49.677280200Z Java Args5: 3
+2022-03-11T01:24:49.677290400Z Java Args6: 6
+2022-03-11T01:24:49.677294500Z Args[2]: "1" - Custom_Args[2]: 1
+2022-03-11T01:24:49.677297300Z Java full path string: ["agent" 247 0 3 6 "1-3"]
+
+580 - "2-1" | s | s
+
+2022-03-11T01:25:01.720906400Z Linha: ["agent" 580 -2 4 3 "2-1"]
+2022-03-11T01:25:01.720909400Z ID do agente: 580
+2022-03-11T01:25:01.720912200Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("580 -2 4 3"),previous_2("2-1"), sugar(-2), metabolism(4), vision(3)
+2022-03-11T01:25:01.720915300Z asl_file_name: regular_agent.asl
+2022-03-11T01:25:01.720918500Z Executing JAVA custom code - delete
+2022-03-11T01:25:01.720921400Z Java Args0: "agent"
+2022-03-11T01:25:01.720924700Z Java Args1: "34 -1 4 2"
+2022-03-11T01:25:01.720928100Z Java Args2: "1-2-1"
+2022-03-11T01:25:01.720931800Z Java Args3(id): 34
+2022-03-11T01:25:01.720935100Z Java Args4: -1
+2022-03-11T01:25:01.720937900Z Java Args5: 4
+2022-03-11T01:25:01.720940500Z Java Args6: 2
+2022-03-11T01:25:01.720943200Z Args[2]: "1-2-1" - Custom_Args[2]: 1-2-1
+2022-03-11T01:25:01.720946000Z Java full path string: ["agent" 34 -1 4 2 "1-2-1-3"]
+
+587 - 2 | s | s
+ 
+2022-03-11T01:24:51.937252200Z Linha: ["agent" 587 -1 3 6 2]
+2022-03-11T01:24:51.937255600Z ID do agente: 587
+2022-03-11T01:24:51.937265000Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("587 -1 3 6"),previous_2("2"), sugar(-1), metabolism(3), vision(6)
+2022-03-11T01:24:51.937273500Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:51.937277200Z Executing JAVA custom code - delete
+2022-03-11T01:24:51.937281000Z Java Args0: "agent"
+2022-03-11T01:24:51.937284400Z Java Args1: "419 -1 2 4"
+2022-03-11T01:24:51.937287300Z Java Args2: "2"
+2022-03-11T01:24:51.937290900Z Java Args3(id): 419
+2022-03-11T01:24:51.937293900Z Java Args4: -1
+2022-03-11T01:24:51.937332700Z Java Args5: 2
+2022-03-11T01:24:51.937336900Z Java Args6: 4
+2022-03-11T01:24:51.937340100Z Args[2]: "2" - Custom_Args[2]: 2
+2022-03-11T01:24:51.937486300Z Java full path string: ["agent" 419 -1 2 4 "2-3"]
+
+615 - 2 | s | s
+
+2022-03-11T01:25:01.469408900Z Linha: ["agent" 615 0 3 1 2]
+2022-03-11T01:25:01.469413600Z ID do agente: 615
+2022-03-11T01:25:01.469416700Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("615 0 3 1"),previous_2("2"), sugar(0), metabolism(3), vision(1)
+2022-03-11T01:25:01.469420500Z asl_file_name: regular_agent.asl
+2022-03-11T01:25:01.469424100Z Agent created by custom file
+2022-03-11T01:25:01.469437900Z Linha: ["agent" 99 -1 4 5 "1-2"]
+2022-03-11T01:25:01.469442300Z ID do agente: 99
+2022-03-11T01:25:01.469446300Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("99 -1 4 5"),previous_2("1-2"), sugar(-1), metabolism(4), vision(5)
+2022-03-11T01:25:01.469449600Z asl_file_name: regular_agent.asl
+2022-03-11T01:25:01.469452500Z Executing JAVA custom code - delete
+2022-03-11T01:25:01.469455700Z Java Args0: "agent"
+2022-03-11T01:25:01.469459800Z Java Args1: "615 0 3 1"
+2022-03-11T01:25:01.469463100Z Java Args2: "2"
+2022-03-11T01:25:01.469466900Z Java Args3(id): 615
+2022-03-11T01:25:01.469470600Z Java Args4: 0
+2022-03-11T01:25:01.469472900Z Java Args5: 3
+2022-03-11T01:25:01.469475100Z Java Args6: 1
+2022-03-11T01:25:01.469477200Z Args[2]: "2" - Custom_Args[2]: 2
+2022-03-11T01:25:01.469480600Z Java full path string: ["agent" 615 0 3 1 "2-3"]
+
+664 - 2 | s | s
+
+2022-03-11T01:24:49.677851500Z Linha: ["agent" 664 0 2 4 2]
+2022-03-11T01:24:49.677866100Z ID do agente: 664
+2022-03-11T01:24:49.677869300Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("664 0 2 4"),previous_2("2"), sugar(0), metabolism(2), vision(4)
+2022-03-11T01:24:49.677872600Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:49.677948200Z Executing JAVA custom code - delete
+2022-03-11T01:24:49.677956800Z Java Args0: "agent"
+2022-03-11T01:24:49.677959600Z Java Args1: "215 -4 4 3"
+2022-03-11T01:24:49.677962400Z Java Args2: "1-2"
+2022-03-11T01:24:49.677964900Z Java Args3(id): 215
+2022-03-11T01:24:49.677975000Z Java Args4: -4
+2022-03-11T01:24:49.677998800Z Java Args5: 4
+2022-03-11T01:24:49.678051300Z Java Args6: 3
+2022-03-11T01:24:49.678068100Z Args[2]: "1-2" - Custom_Args[2]: 1-2
+2022-03-11T01:24:49.678072600Z Java full path string: ["agent" 215 -4 4 3 "1-2-3"]
+
+733 - 2 | s | s
+
+2022-03-11T01:24:46.164670600Z Linha: ["agent" 733 0 3 5 2]
+2022-03-11T01:24:46.164673400Z ID do agente: 733
+2022-03-11T01:24:46.164676200Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("733 0 3 5"),previous_2("2"), sugar(0), metabolism(3), vision(5)
+2022-03-11T01:24:46.164679400Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:46.164682100Z Executing JAVA custom code - delete
+2022-03-11T01:24:46.164718400Z Java Args0: "agent"
+2022-03-11T01:24:46.164723600Z Java Args1: "470 0 2 1"
+2022-03-11T01:24:46.164796300Z Java Args2: "2"
+2022-03-11T01:24:46.164817300Z Java Args3(id): 470
+2022-03-11T01:24:46.164822100Z Java Args4: 0
+2022-03-11T01:24:46.164824900Z Java Args5: 2
+2022-03-11T01:24:46.164827800Z Java Args6: 1
+2022-03-11T01:24:46.164834800Z Args[2]: "2" - Custom_Args[2]: 2
+2022-03-11T01:24:46.164923100Z Java full path string: ["agent" 470 0 2 1 "2-3"]
+
+763 - 2 | s | s
+
+2022-03-11T01:24:44.908227800Z Linha: ["agent" 763 0 3 2 2]
+2022-03-11T01:24:44.908231000Z ID do agente: 763
+2022-03-11T01:24:44.908234700Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("763 0 3 2"),previous_2("2"), sugar(0), metabolism(3), vision(2)
+2022-03-11T01:24:44.908238500Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:44.908241700Z Executing JAVA custom code - delete
+2022-03-11T01:24:44.908245000Z Java Args0: "agent"
+2022-03-11T01:24:44.908248700Z Java Args1: "246 -1 2 1"
+2022-03-11T01:24:44.908251500Z Java Args2: "1"
+2022-03-11T01:24:44.908255000Z Java Args3(id): 246
+2022-03-11T01:24:44.908329500Z Java Args4: -1
+2022-03-11T01:24:44.908345200Z Java Args5: 2
+2022-03-11T01:24:44.908361100Z Java Args6: 1
+2022-03-11T01:24:44.908371000Z Args[2]: "1" - Custom_Args[2]: 1
+2022-03-11T01:24:44.908374500Z Java full path string: ["agent" 246 -1 2 1 "1-3"]
+
+778 - 2 | s | s
+
+2022-03-11T01:24:44.649935300Z Linha: ["agent" 778 0 3 1 2]
+2022-03-11T01:24:44.649937800Z ID do agente: 778
+2022-03-11T01:24:44.649940300Z Vai criar o agente com os beliefs: previous_0("agent"),previous_1("778 0 3 1"),previous_2("2"), sugar(0), metabolism(3), vision(1)
+2022-03-11T01:24:44.649945800Z asl_file_name: regular_agent.asl
+2022-03-11T01:24:44.649948200Z Executing JAVA custom code - delete
+2022-03-11T01:24:44.649954600Z Java Args0: "agent"
+2022-03-11T01:24:44.650030900Z Java Args1: "271 -2 3 2"
+2022-03-11T01:24:44.650176400Z Java Args2: "1"
+2022-03-11T01:24:44.650186000Z Java Args3(id): 271
+2022-03-11T01:24:44.650189300Z Java Args4: -2
+2022-03-11T01:24:44.650191800Z Java Args5: 3
+2022-03-11T01:24:44.650209400Z Java Args6: 2
+2022-03-11T01:24:44.650225200Z Args[2]: "1" - Custom_Args[2]: 1
+2022-03-11T01:24:44.650228900Z Java full path string: ["agent" 271 -2 3 2 "1-3"]

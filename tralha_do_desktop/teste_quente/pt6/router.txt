@@ -1,0 +1,1000 @@
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 685 0 3 5 "2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 174 -2 4 6 "1-1-1-2-1-2-2-2-2"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 555 -3 4 1 "2-1-1-2-2-2"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 402 0 3 1 "2-1-2-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 572 0 4 4 "2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 527 -3 4 2 "2-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 474 -2 4 2 "2-2-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 226 -1 3 1 "1-2-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 87 -1 4 5 "1-1-1-2-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 509 -2 4 4 "2-2-2-2-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 13 -3 3 2 "1-1-2-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 659 -3 4 4 "2-1-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 627 0 3 3 "2-2-2-1-2-2"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 534 -1 3 3 "2-1-2-2-1-1-2-2"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 704 -1 3 5 "2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 783 -1 4 1 "2-2-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 3 -2 4 2 "1-2-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 471 -3 3 1 "2-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 280 -3 4 1 "1-1-1-2-2-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 275 0 3 5 "1-1-2-2-1-2-2-2"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 489 0 3 6 "2-1-2-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 142 -4 4 3 "1-1-2-1-2-2-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 629 -1 3 4 "2-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 469 -2 3 1 "2-1-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 304 -3 4 4 "1-1-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 632 -1 3 5 "2-1-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 274 0 3 4 "1-2-2-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 426 0 2 5 "2-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 720 -3 4 4 "2-1-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 414 0 3 4 "2-1-2-2-2"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 223 -2 4 5 "1-2-2-2-2-2"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 732 -2 4 3 "2-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 378 -1 3 6 "1-1-1-1-2-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 604 -3 4 1 "2-1-2"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 701 -2 4 6 "2-1-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 401 -1 4 2 "2-1-1-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 291 -1 4 2 "1-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 394 -2 4 6 "1-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 321 -2 3 5 "1-2-1-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 510 -1 3 4 "2-2-1-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 371 -3 4 3 "1-1-2-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 674 0 4 2 "2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 799 -1 2 1 "2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 696 0 2 3 "2-1-2"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 782 0 3 4 "2-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 711 -1 4 6 "2-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 196 -1 4 5 "1-2-1-1-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 639 0 2 3 "2-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 219 -1 4 5 "1-2-2-1-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 430 0 3 3 "2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 20 0 3 4 "1-2-2-1-2-2-2-2"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 484 -1 2 1 "2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 699 -2 4 3 "2-1-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 529 -1 3 5 "2-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 200 -1 4 3 "1-1-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 722 -1 4 4 "2-2-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 626 -2 4 6 "2-2-1-2"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 664 -2 4 1 "2-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 575 0 3 1 "2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 297 -1 3 3 "1-1-1-2-1-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 127 -4 4 2 "1-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 590 -1 4 1 "2-1-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 197 0 3 1 "1-2-1-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 267 -2 4 2 "1-2-2-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 231 -2 4 3 "1-2-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 175 -1 3 2 "1-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 511 -1 4 6 "2-2-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 383 -1 4 6 "1-1-1-2-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 610 -1 4 1 "2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 457 -3 3 3 "2-2-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 176 -3 4 3 "1-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 130 0 3 5 "1-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 81 -2 4 2 "1-2-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 692 -2 4 3 "2-1-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 599 -2 4 6 "2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 207 0 3 6 "1-1-1-1-1-1-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 702 -3 4 5 "2-1-2-1-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 746 -2 4 2 "2-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 495 -3 4 3 "2-2-1-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 543 -2 3 5 "2-1-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 460 -1 4 1 "2-2-1-2-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 312 -2 4 2 "1-2-2-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 680 -1 3 3 "2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 708 -1 4 5 "2-2-2-2"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 756 -2 4 4 "2-2-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 487 -3 4 3 "2-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 220 0 3 4 "1-2-2-1-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 282 -3 4 3 "1-2-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 797 0 3 4 "2-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 417 0 3 6 "2-2-2-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 748 -1 3 5 "2-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 159 -1 4 4 "1-1-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 547 -3 3 1 "2-1-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 448 -1 3 3 "2-1-2"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 73 0 3 6 "1-2-2-1-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 528 -2 4 2 "2-1-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 565 -1 3 2 "2-1-1-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 461 -1 3 4 "2-1-2-2"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 765 -1 3 1 "2-2-2-2-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 324 0 3 6 "1-1-2-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 500 -3 4 3 "2-1-2-1-2-2"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 98 0 3 5 "1-2-1-2-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 15 -2 4 2 "1-2-1-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 28 -2 4 4 "1-1-2-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 8 -1 3 5 "1-2-1-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 698 -2 4 4 "2-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 517 -3 4 4 "2-1-2-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 557 -2 4 4 "2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 116 -1 3 1 "1-1-1-2-1-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 253 -1 3 2 "1-1-2-1-2-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 131 -2 4 4 "1-2-1-1-1-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 6 -2 4 3 "1-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 494 -3 4 3 "2-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 308 -3 3 1 "1-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 318 0 3 2 "1-1-1-2-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 298 -1 3 5 "1-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 616 -1 4 6 "2-2-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 501 -3 3 1 "2-2-2-1-2-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 504 -2 4 5 "2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 465 -1 4 3 "2-1-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 164 -1 3 5 "1-1-1-1-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 319 -2 3 1 "1-1-2-1-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 568 -1 3 1 "2-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 410 -3 3 3 "2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 608 -1 3 1 "2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 656 -1 2 2 "2-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 689 -2 4 3 "2-1-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 248 -1 4 6 "1-2-1-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 398 -4 4 1 "1-2-1-1-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 338 0 3 1 "1-2-1-1-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 332 -2 4 2 "1-1-1-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 733 -1 3 1 "2-1-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 582 -4 4 4 "2-1-1-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 597 -1 3 3 "2-1-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 435 -1 4 1 "2-1-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 157 -3 4 1 "1-1-1-2-2-2-2-2-2"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 559 0 3 2 "2-1-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 124 -3 4 3 "1-1-1-2-2-2-2-2-2"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 729 -2 4 3 "2-1-1-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 387 -1 4 5 "1-2-1-1-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 381 -1 4 4 "1-2-1-2-2-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 403 -2 4 2 "2-2-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 425 -2 4 4 "2-2-1-2-2"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 577 -2 4 5 "2-2-1-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 663 -1 4 6 "2-2-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 52 -1 3 1 "1-2-1-1-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 303 -2 4 4 "1-2-1-1-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 333 -2 4 3 "1-2-1-2-2"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 232 -1 3 4 "1-1-2-2-2"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 99 -2 4 3 "1-2-1-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 682 -2 4 2 "2-1-1-1-2"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 110 0 3 3 "1-2-1-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 679 -1 4 4 "2-2-2-2"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 241 -1 4 1 "1-1-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 229 -2 4 3 "1-1-1-1-2-2-2"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 359 -3 4 4 "1-2-1-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 537 0 4 5 "2-2-2-1"]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 86 -1 3 1 "1-2-2-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 213 -2 4 1 "1-2-1-2-1"]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 779 -1 3 2 "2-2-2-2-2"]
+Random model chosen:
+model1
+done
+Fila Vazia
+Qtd de agentes enviados pro modelo model0 : 1036
+Qtd de agentes enviados pro modelo model1 : 1074
+Fila Vazia
+Qtd de agentes enviados pro modelo model0 : 1036
+Qtd de agentes enviados pro modelo model1 : 1074
+Fila Vazia
+Qtd de agentes enviados pro modelo model0 : 1036
+Qtd de agentes enviados pro modelo model1 : 1074
+Fila Vazia
+Qtd de agentes enviados pro modelo model0 : 1036
+Qtd de agentes enviados pro modelo model1 : 1074
+Fila Vazia
+Qtd de agentes enviados pro modelo model0 : 1036
+Qtd de agentes enviados pro modelo model1 : 1074
+Fila Vazia
+Qtd de agentes enviados pro modelo model0 : 1036
+Qtd de agentes enviados pro modelo model1 : 1074
+Fila Vazia
+Qtd de agentes enviados pro modelo model0 : 1036
+Qtd de agentes enviados pro modelo model1 : 1074
+Fila Vazia
+Qtd de agentes enviados pro modelo model0 : 1036
+Qtd de agentes enviados pro modelo model1 : 1074
+Fila Vazia
+Qtd de agentes enviados pro modelo model0 : 1036
+Qtd de agentes enviados pro modelo model1 : 1074
+Fila Vazia
+Qtd de agentes enviados pro modelo model0 : 1036
+Qtd de agentes enviados pro modelo model1 : 1074
+Fila Vazia
+Qtd de agentes enviados pro modelo model0 : 1036
+Qtd de agentes enviados pro modelo model1 : 1074
+Fila Vazia
+Qtd de agentes enviados pro modelo model0 : 1036
+Qtd de agentes enviados pro modelo model1 : 1074
+Fila Vazia
+Qtd de agentes enviados pro modelo model0 : 1036
+Qtd de agentes enviados pro modelo model1 : 1074

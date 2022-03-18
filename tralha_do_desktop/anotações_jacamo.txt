@@ -1,0 +1,41 @@
+save_agent -> Não encontrei nas internal action do java, nem consegui usar em outro agente. No ASL, só da pra usar de dentro do próprio agente.
+
+kill_agent -> Um agente pode matar outro, mas não a si próprio (no ASL). Da pra manter também no java.
+
+*save_agent -> No ASL, no próprio usuário*
+*kill_agent -> No ASL em outro usuário, ou no java*
+
+
+--------------------------------
+
+https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=4a05bc58d8&attid=0.2&permmsgid=msg-f:1725581672750168344&th=17f27f638b32b918&view=att&disp=inline&realattid=f_kzzx9ggv1&saddbat=ANGjdJ9wB46yTgmxaDSjz1Xpeysa2VS6YUBNldIiFnnFL8fmM6nnjVaJmfOxjlNEMAas70XcLBKbtn5JVvuQnftQwf4HP0788QamAX6SjeV1vPy5jv0lYFL7NOF2c98Pzp1PEzBGtrxrsHSl3FilLBGEVOWymqkRSYO5YfDWOsHo7CSCnHbqFvPez5MeaQg7xc0zJ0ZNE_AEf5Ikcajm5rtQeeTNUsRAXUgBHtK6nVdpk1ucKX0b-58yh21KRh0TGfqct7YSqU1W0sVSygAXh3n5rBR20mRVi7Rd8rVZ8gjrb_Gdhvej9mu3fMw34VTvcqzOArgeG1IiKjAPq4HK2dIoDJP5KbkRyo8D0VGg2ydyxckoxuqULzn3PCLA2AQfNWGWL74qF1i5VuIAHFNoDMLVp214nQCdph2FbKZNXErvfzUiAy__b-pLdl2tWxK7KysT3K21sZrif5qItBTRCQ0Z4-_Xfzl-RKGAQR4Fb2LqpkPGHGcE0Dczwpc7bQbKu8Wvxim9HjjvYRbSnCfzY6g7-a5EbvDM9Pfmkssgu6wdZtCRuJjQ85p4ArPVMFG4I6ZcwiH3Z95G2Nnb-dfGbofhphjO893zYIa_7sPqcEbRdZdOnqHIg0RRWcOCVZBBzYvSh0tkBdeVpuzT0t9EQhBveBioKyCEe1OZdBr2OFcc58r9ZvMo0SGTqOZN7vg
+
+https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=4a05bc58d8&attid=0.1&permmsgid=msg-f:1725581672750168344&th=17f27f638b32b918&view=att&disp=inline&realattid=f_kzzx9ggi0&saddbat=ANGjdJ_ve63drY2COFsusSbgn1EmDkxZediB1LjUoUfmrWWWDafJvLvbrJDWzZ0yYFahDWtV_7ByRgzNuEZk4KEURIn3Q55m2aiCCCwkyYOUN6TlRWJr6UasCuZQGZ9q0rdorJ9NHJYIhttgUpHyMnJEmdRFhRQkblmoWF0ACDqpnjMOWb6S_WDoFxem4dyS1nC5r6-V7JcnZ-X37g4N1lYgJtupFb-SqH57fbz56iZAFSIkvHrwWuYNuyJqq1_TPmdZFRTM_lTawVBnuvaswFLiqch4Wzn7TMyUDRYogsZ8v15EDXzshH_sPEwV0u0hcaFSx_OOR9_A0MurUk1Ql3KbTQ2pKAoJ7hK64W6dSWirA1Xofsdf1szNopGe5ojOfm0GQhpBL2o_-WRViMwbW7cI73ia-SVQkqaxD2KamX_3TgyTq_Enq11xr-DPoGYIZDgQ4tQgjjAomJAc7g8b49jlV68rUhdVIuXoX-QYp9E8jk0EX5W-FOEGzkZ_rSlXs1CmxHnXvJ_UNz4Z80EVkxDHmtgwh0_uhwOG9YYon5pB5Xj-02shSnhzKuybj2nzfxiA4DQDiuHzfU2tKeMVzFsX19gmcWK69neudW88cP-bbPZ4zHU1HShdzpCEeEEVDEPnN_pe-UFWeT01ZDpJAHyB7e6P77Isf6Zin_mH81PMQ_GolWZRRKv3FVSFJn4
+
+http://jason.sourceforge.net/api/jason/runtime/RuntimeServicesFactory.html
+
+http://jason.sourceforge.net/api/jason/bb/TextPersistentBB.html#file
+
+http://jason.sourceforge.net/api/jason/bb/BeliefBase.html#iterator()
+
+http://jason.sourceforge.net/api/jason/bb/DefaultBeliefBase.html
+
+http://jason.sourceforge.net/Jason.pdf
+
+file:///C:/Users/Gustavo/Desktop/JASON_TESTE/teste_do_0/doc/api/jason/stdlib/create_agent.html
+
+file:///C:/Users/Gustavo/Desktop/JASON_TESTE/teste_do_0/doc/api/jason/stdlib/save_agent.html
+
+file:///C:/Users/Gustavo/Desktop/JASON_TESTE/teste_do_0/doc/api/jason/stdlib/kill_agent.html
+
+file:///C:/Users/Gustavo/Desktop/JASON_TESTE/teste_do_0/doc/api/jason/stdlib/save_agent.html
+
+file:///C:/Users/Gustavo/Desktop/JASON_TESTE/teste_do_0/doc/api/jason/asSemantics/Unifier.html#unifies(jason.asSyntax.Term,jason.asSyntax.Term)
+
+http://jason.sourceforge.net/doc/faq.html#_how_to_create_a_new_internal_actions
+
+http://jason.sourceforge.net/mini-tutorial/getting-started/
+
+
+
+http://jacamo.sourceforge.net/tutorial/gold-miners/aop-altissimo-14.pdf

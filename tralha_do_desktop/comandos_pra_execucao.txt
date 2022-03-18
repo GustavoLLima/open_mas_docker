@@ -1,0 +1,2 @@
+from db_python_netlogo import teste_router()
+python3 python_execute_netlogo.py >> /teste/important/m1_output.txt

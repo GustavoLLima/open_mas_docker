@@ -1,0 +1,25 @@
+py:run "from client import send_function"
+py:run "send_function('um dois três')"
+
+py:run (word "send_function('" ("iiisakosakoas") "')")
+
+-------------------------------------
+py:setup py:python
+py:run "from client2 import send_function"
+py:run "send_function('um dois três')"
+py:run (word "send_function('" "[" "\"" "agent" "\"" " " ("agent_id") " " ("sugar") " " ("metabolism") " " ("vision") " " "1" "]" "')")
+py:run (word "send_function('" "[" "\"" "agent" "\"" " " ("agent_id") " " ("sugar") " " ("metabolism") " " ("vision") " " (word "\"" (ticks) "-1" "\"") "]" "')")
+
+py:run "from client2 import teste_retorno"
+py:runresult (word "teste_retorno('" "[" "\"" "agent" "\"" " " ("agent_id") " " ("sugar") " " ("metabolism") " " ("vision") " " (word "\"" (ticks) "-1" "\"") "]" "')")
+
+pip install --only-binary :all: mysqlclient
+
+show (word "solicita_cartorio('" ("m1") "'" "," (400) ")")
+
+
+py:run "from db_python_netlogo import teste_retorno"
+teste_retorno('[\"agent\" agent_id sugar metabolism vision \"0-1\"]')
+
+from db_python_netlogo import teste_envio
+teste_envio('[\"agent\" agent_id sugar metabolism vision \"0-1\"]')

@@ -1,0 +1,262 @@
+reading from file /teste/jacamo/src/juntando_jason_jacamo.jcm ...
+file /teste/jacamo/src/juntando_jason_jacamo.jcm parsed successfully!
+
+Executing /usr/lib/jvm/java-1.8-openjdk/bin/java -classpath /jacamo/build/libs/ant-launcher-1.10.5.jar org.apache.tools.ant.launch.Launcher -e -f bin/juntando_jason_jacamo.xml run
+Buildfile: /teste/jacamo/src/bin/juntando_jason_jacamo.xml
+
+init:
+
+user-init:
+
+compile:
+Compiling 4 source files to /teste/jacamo/src/bin/classes
+Note: /teste/jacamo/src/src/agt/mylib/aaa_my_create_ag.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+run:
+Running project juntando_jason_jacamo
+Can't load log handler "jason.runtime.MASConsoleLogHandler"
+java.awt.HeadlessException: 
+No X11 DISPLAY variable was set, but this program performed an operation which requires it.
+java.awt.HeadlessException: 
+No X11 DISPLAY variable was set, but this program performed an operation which requires it.
+	at java.awt.GraphicsEnvironment.checkHeadless(GraphicsEnvironment.java:204)
+	at java.awt.Window.<init>(Window.java:536)
+	at java.awt.Frame.<init>(Frame.java:420)
+	at javax.swing.JFrame.<init>(JFrame.java:232)
+	at jason.runtime.MASConsoleGUI.initFrame(MASConsoleGUI.java:65)
+	at jason.runtime.MASConsoleGUI.<init>(MASConsoleGUI.java:58)
+	at jason.runtime.MASConsoleGUI.get(MASConsoleGUI.java:39)
+	at jason.runtime.MASConsoleLogHandler.<init>(MASConsoleLogHandler.java:24)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at java.util.logging.LogManager$5.run(LogManager.java:966)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.util.logging.LogManager.loadLoggerHandlers(LogManager.java:958)
+	at java.util.logging.LogManager.initializeGlobalHandlers(LogManager.java:1578)
+	at java.util.logging.LogManager.access$1500(LogManager.java:145)
+	at java.util.logging.LogManager$RootLogger.accessCheckedHandlers(LogManager.java:1667)
+	at java.util.logging.Logger.getHandlers(Logger.java:1777)
+	at jacamo.infra.JaCaMoLauncher.init(JaCaMoLauncher.java:126)
+	at jacamo.infra.JaCaMoLauncher.main(JaCaMoLauncher.java:67)
+CArtAgO Http Server running on http://192.168.128.3:3273
+Jason Http Server running on http://192.168.128.3:3272
+Executing JAVA custom code - create
+/teste/important/receive_agent3.txt não existe
+Executing JAVA custom code - create
+/teste/important/receive_agent3.txt não existe
+Executing JAVA custom code - create
+/teste/important/receive_agent3.txt não existe
+Executing JAVA custom code - create
+Linha: ["agent" 1 1 2 3 "1-3"]
+ID do agente: 1
+asl_file_name: regular_agent.asl
+Agent created by custom file
+! Deleting After creating agents !
+! Deleted !
+Executing JAVA custom code - delete
+Java Args0: "agent"
+Java Args1: "1 5 9 5"
+Java Args2: "1-3"
+Java Args3(id): 1
+Java Args4: 1
+Java Args5: 2
+Java Args6: 3
+Args[2]: "1-3" - Custom_Args[2]: 1-3
+Adicionando agente no arquivo: /teste/important/send_agent3.txt
+
+Adicionando agente no arquivo: /teste/important/general_send_agent.txt
+
+Agente removido da simulação...
+Executing JAVA custom code - create
+Linha: ["agent" 1 1 2 3 "1-3-3"]
+ID do agente: 1
+asl_file_name: list/1.asl
+Agent created by custom file
+! Deleting After creating agents !
+! Deleted !
+Executing JAVA custom code - delete
+Java Args0: "agent"
+Java Args1: "1 5 9 5"
+Java Args2: "1-3"
+Java Args3(id): 1
+Java Args4: 1
+Java Args5: 2
+Java Args6: 3
+Args[2]: "1-3" - Custom_Args[2]: 1-3
+Adicionando agente no arquivo: /teste/important/send_agent3.txt
+
+Adicionando agente no arquivo: /teste/important/general_send_agent.txt
+
+Agente removido da simulação...
+Executing JAVA custom code - create
+Linha: ["agent" 1 1 2 3 "1-3-3"]
+ID do agente: 1
+asl_file_name: list/1.asl
+Agent created by custom file
+! Deleting After creating agents !
+! Deleted !
+Executing JAVA custom code - delete
+Java Args0: "agent"
+Java Args1: "1 5 9 5"
+Java Args2: "1-3"
+Java Args3(id): 1
+Java Args4: 1
+Java Args5: 2
+Java Args6: 3
+Args[2]: "1-3" - Custom_Args[2]: 1-3
+Adicionando agente no arquivo: /teste/important/send_agent3.txt
+
+Adicionando agente no arquivo: /teste/important/general_send_agent.txt
+
+Agente removido da simulação...
+Executing JAVA custom code - create
+Linha: ["agent" 1 1 2 3 "1-3-3"]
+ID do agente: 1
+asl_file_name: list/1.asl
+Agent created by custom file
+! Deleting After creating agents !
+! Deleted !
+Executing JAVA custom code - delete
+Java Args0: "agent"
+Java Args1: "1 5 9 5"
+Java Args2: "1-3"
+Java Args3(id): 1
+Java Args4: 1
+Java Args5: 2
+Java Args6: 3
+Args[2]: "1-3" - Custom_Args[2]: 1-3
+Adicionando agente no arquivo: /teste/important/send_agent3.txt
+
+Adicionando agente no arquivo: /teste/important/general_send_agent.txt
+
+Agente removido da simulação...
+Executing JAVA custom code - create
+Linha: ["agent" 1 1 2 3 "1-3-3"]
+ID do agente: 1
+asl_file_name: list/1.asl
+Agent created by custom file
+! Deleting After creating agents !
+! Deleted !
+Executing JAVA custom code - delete
+Java Args0: "agent"
+Java Args1: "1 5 9 5"
+Java Args2: "1-3"
+Java Args3(id): 1
+Java Args4: 1
+Java Args5: 2
+Java Args6: 3
+Args[2]: "1-3" - Custom_Args[2]: 1-3
+Adicionando agente no arquivo: /teste/important/send_agent3.txt
+
+Adicionando agente no arquivo: /teste/important/general_send_agent.txt
+
+Agente removido da simulação...
+Executing JAVA custom code - create
+Linha: ["agent" 1 1 2 3 "1-3-3"]
+ID do agente: 1
+asl_file_name: list/1.asl
+Agent created by custom file
+! Deleting After creating agents !
+! Deleted !
+Executing JAVA custom code - delete
+Java Args0: "agent"
+Java Args1: "1 5 9 5"
+Java Args2: "1-3"
+Java Args3(id): 1
+Java Args4: 1
+Java Args5: 2
+Java Args6: 3
+Args[2]: "1-3" - Custom_Args[2]: 1-3
+Adicionando agente no arquivo: /teste/important/send_agent3.txt
+
+Adicionando agente no arquivo: /teste/important/general_send_agent.txt
+
+Agente removido da simulação...
+Executing JAVA custom code - create
+Linha: ["agent" 1 1 2 3 "1-3-3"]
+ID do agente: 1
+asl_file_name: list/1.asl
+Agent created by custom file
+! Deleting After creating agents !
+! Deleted !
+Executing JAVA custom code - delete
+Java Args0: "agent"
+Java Args1: "1 5 9 5"
+Java Args2: "1-3"
+Java Args3(id): 1
+Java Args4: 1
+Java Args5: 2
+Java Args6: 3
+Args[2]: "1-3" - Custom_Args[2]: 1-3
+Adicionando agente no arquivo: /teste/important/send_agent3.txt
+
+Adicionando agente no arquivo: /teste/important/general_send_agent.txt
+
+Agente removido da simulação...
+Executing JAVA custom code - create
+Linha: ["agent" 1 1 2 3 "1-3-3"]
+ID do agente: 1
+asl_file_name: list/1.asl
+Agent created by custom file
+! Deleting After creating agents !
+! Deleted !
+Executing JAVA custom code - delete
+Java Args0: "agent"
+Java Args1: "1 5 9 5"
+Java Args2: "1-3"
+Java Args3(id): 1
+Java Args4: 1
+Java Args5: 2
+Java Args6: 3
+Args[2]: "1-3" - Custom_Args[2]: 1-3
+Adicionando agente no arquivo: /teste/important/send_agent3.txt
+
+Adicionando agente no arquivo: /teste/important/general_send_agent.txt
+
+Agente removido da simulação...
+Executing JAVA custom code - create
+Linha: ["agent" 1 1 2 3 "1-3-3"]
+ID do agente: 1
+asl_file_name: list/1.asl
+Agent created by custom file
+! Deleting After creating agents !
+! Deleted !
+Executing JAVA custom code - delete
+Java Args0: "agent"
+Java Args1: "1 5 9 5"
+Java Args2: "1-3"
+Java Args3(id): 1
+Java Args4: 1
+Java Args5: 2
+Java Args6: 3
+Args[2]: "1-3" - Custom_Args[2]: 1-3
+Adicionando agente no arquivo: /teste/important/send_agent3.txt
+
+Adicionando agente no arquivo: /teste/important/general_send_agent.txt
+
+Agente removido da simulação...
+Executing JAVA custom code - create
+Linha: ["agent" 1 1 2 3 "1-3-3"]
+ID do agente: 1
+asl_file_name: list/1.asl
+Agent created by custom file
+! Deleting After creating agents !
+! Deleted !
+Executing JAVA custom code - delete
+Java Args0: "agent"
+Java Args1: "1 5 9 5"
+Java Args2: "1-3"
+Java Args3(id): 1
+Java Args4: 1
+Java Args5: 2
+Java Args6: 3
+Args[2]: "1-3" - Custom_Args[2]: 1-3
+Adicionando agente no arquivo: /teste/important/send_agent3.txt
+
+Adicionando agente no arquivo: /teste/important/general_send_agent.txt
+
+Agente removido da simulação...

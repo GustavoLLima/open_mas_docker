@@ -1,0 +1,23 @@
+1:
+qtd_received_agents - 18
+qtd_received_agents_before - 1390 - "O modelo1 inseriu 1390 agentes vindos do router"
+qtd_sended_agents - 1076 - "O modelo1 escreveu 1076 agentes nos 2 arquivos"
+
+receive_agent  - 132 (+1 linha)
+send_agent - 1076 (+1 linha)
+vivos - 315 (sem linha)
+
+
+2:
+qtd_received_agents - 22
+qtd_received_agents_before - 1247 - "O modelo2 inseriu 1247 agentes vindos do router"
+qtd_sended_agents - 1034 - "O modelo2 escreveu 1034 agentes nos 2 arquivos"
+
+Qtd de agentes enviados pro modelo model0 : 1036
+Qtd de agentes enviados pro modelo model1 : 1074
+
+receive_agent2  - 213 (+1 linha)
+send_agent2 - 1034 (+1 linha)
+vivos - 213 (sem linha)
+
+general - 2210 (+1 linha)

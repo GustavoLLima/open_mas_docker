@@ -1,0 +1,1 @@
+docker logs -t --follow --tail all v3_router_1 >> router13.txt

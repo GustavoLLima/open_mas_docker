@@ -1,0 +1,1000 @@
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 121 -2 4 1 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 129 -1 3 5 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 347 -2 3 5 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 248 -1 3 2 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 382 -1 4 6 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 36 -3 4 1 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 253 0 2 2 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 227 -1 4 1 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 118 -1 4 3 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 356 -3 3 3 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 301 0 3 2 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 12 -1 4 4 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 148 -1 4 4 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 365 0 2 3 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 191 0 2 6 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 153 -2 2 4 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 75 -1 4 6 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 314 0 3 5 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 217 0 2 6 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 313 0 4 2 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 89 0 2 3 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 200 0 1 3 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 110 0 2 2 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 62 0 3 4 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 87 -1 1 2 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 24 -2 4 2 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 115 0 3 3 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 331 -1 4 5 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 266 -1 4 1 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 348 -1 4 5 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 125 0 3 5 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 209 0 3 5 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 394 -1 3 6 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 141 -1 4 5 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 42 -2 3 6 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 204 0 3 5 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 377 -2 4 3 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 389 0 1 3 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 122 0 2 1 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 346 0 2 1 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 311 -1 4 5 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 294 -1 3 2 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 6 0 2 1 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 178 -1 4 1 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 225 -1 4 3 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 273 -1 3 6 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 297 0 2 4 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 278 0 4 1 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 146 0 2 2 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 246 -1 4 6 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 59 -2 4 4 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 166 0 4 3 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 330 -2 2 3 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 393 -2 4 5 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 30 -1 1 3 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 267 -1 1 1 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 50 0 1 3 1]
+Random model chosen:
+model0
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 201 -1 3 3 1]
+Random model chosen:
+model1
+done
+Escolhendo um agente pra reviver
+Agent chosen:
+["agent" 379 -1 4 6 1]
+Random model chosen:
+model1
+done
+***********************
+["agent" 336 -2 4 5 1]
+
+
+
+["agent" 303 -3 3 2 1]
+
+
+
+["agent" 383 0 3 5 1]
+
+
+
+["agent" 46 -1 3 6 1]
+
+
+
+["agent" 45 -1 2 4 1]
+
+
+
+["agent" 82 -1 1 2 1]
+
+
+
+["agent" 174 -1 4 3 1]
+
+
+
+["agent" 343 -1 4 5 1]
+
+
+
+["agent" 212 -1 3 6 1]
+
+
+
+["agent" 252 -2 4 6 1]
+
+
+
+["agent" 4 -2 3 3 1]
+
+
+
+["agent" 133 0 2 4 1]
+
+
+
+["agent" 134 0 3 4 1]
+
+
+
+["agent" 13 -2 4 3 1]
+
+
+
+["agent" 275 -2 3 5 1]
+
+
+
+["agent" 324 -1 4 2 1]
+
+
+
+["agent" 58 0 1 6 1]
+
+
+
+["agent" 85 0 2 5 1]
+
+
+
+["agent" 194 -2 2 1 1]
+
+
+
+["agent" 150 0 4 6 1]
+
+
+
+["agent" 270 -1 3 5 1]
+
+
+
+["agent" 276 -2 4 1 1]
+
+
+
+["agent" 147 0 1 4 1]
+
+
+
+["agent" 251 -1 1 2 1]
+
+
+
+["agent" 370 -2 4 2 1]
+
+
+
+["agent" 77 -1 3 3 1]
+
+
+
+["agent" 292 -1 3 6 1]
+
+
+
+["agent" 357 -2 4 3 1]
+
+
+
+["agent" 224 -1 2 5 1]
+
+
+
+["agent" 109 0 4 6 1]
+
+
+
+["agent" 117 0 3 4 1]
+
+
+
+["agent" 396 0 1 4 1]
+
+
+
+["agent" 11 -3 4 6 1]
+
+
+
+["agent" 139 -1 4 5 1]
+
+
+
+["agent" 391 0 3 4 1]
+
+
+
+["agent" 111 -1 3 5 1]
+
+
+
+["agent" 69 -1 3 5 1]
+
+
+
+["agent" 341 0 2 3 1]
+
+
+
+["agent" 161 -2 4 1 1]
+
+
+
+["agent" 103 -2 4 6 1]
+
+
+
+["agent" 78 -1 4 4 1]
+
+
+
+["agent" 131 -1 3 4 1]
+
+
+
+["agent" 190 -4 4 4 1]
+
+
+
+["agent" 283 0 3 2 1]
+
+
+
+["agent" 214 -1 3 6 1]
+
+
+
+["agent" 119 0 1 2 1]
+
+
+
+["agent" 287 -3 4 4 1]
+
+
+
+["agent" 262 0 1 4 1]
+
+
+
+["agent" 328 -2 4 1 1]
+
+
+
+["agent" 149 0 1 4 1]
+
+
+
+["agent" 254 -2 3 4 1]
+
+
+
+["agent" 398 -1 4 2 1]
+
+
+
+["agent" 198 -1 2 2 1]
+
+
+
+["agent" 10 -2 3 4 1]
+
+
+
+["agent" 130 -2 3 6 1]
+
+
+
+["agent" 187 -1 3 5 1]
+
+
+
+["agent" 55 0 2 2 1]
+
+
+
+["agent" 203 0 2 3 1]
+
+
+
+["agent" 288 -2 4 3 1]
+
+
+
+["agent" 340 -2 3 5 1]
+
+
+
+["agent" 56 -1 4 5 1]
+
+
+
+["agent" 163 -1 3 4 1]
+
+
+
+["agent" 128 -1 4 3 1]
+
+
+
+["agent" 213 -2 4 3 1]
+
+
+
+["agent" 127 0 4 5 1]
+
+
+
+["agent" 25 0 4 6 1]
+
+
+
+["agent" 98 -1 4 3 1]
+
+
+
+["agent" 100 -1 2 2 1]
+
+
+
+["agent" 210 0 3 1 1]
+
+
+
+["agent" 143 -2 3 2 1]
+
+
+
+["agent" 57 0 2 4 1]
+
+
+
+["agent" 206 0 2 1 1]
+
+
+
+["agent" 49 -2 3 2 1]
+
+
+
+["agent" 208 -3 4 2 1]
+
+
+
+["agent" 219 0 3 3 1]
+
+
+
+["agent" 90 0 4 5 1]
+
+
+
+["agent" 337 -2 4 5 1]
+
+
+
+["agent" 374 -2 4 1 1]
+
+
+
+["agent" 345 -2 3 5 1]
+
+
+
+["agent" 61 -2 3 6 1]
+
+
+
+["agent" 137 -3 3 1 1]
+
+
+
+["agent" 305 -2 4 6 1]
+
+
+
+["agent" 53 -2 3 2 1]
+
+
+
+["agent" 281 -2 4 5 1]
+
+
+
+["agent" 290 -1 4 4 1]
+
+
+
+["agent" 240 0 4 5 1]
+
+
+
+["agent" 39 0 3 4 1]
+
+
+
+["agent" 339 0 1 1 1]
+
+
+
+["agent" 197 -1 4 5 1]
+
+
+
+["agent" 113 0 3 5 1]
+
+
+
+["agent" 235 0 3 1 1]
+
+
+
+["agent" 366 0 2 2 1]
+
+
+
+["agent" 66 -1 4 1 1]
+
+
+
+["agent" 140 0 3 4 1]
+
+
+
+["agent" 52 -2 3 5 1]
+
+
+
+["agent" 320 -1 2 1 1]
+
+
+
+["agent" 156 0 2 3 1]
+
+
+
+["agent" 269 -1 3 5 1]
+
+
+
+["agent" 3 0 1 3 1]
+
+
+
+["agent" 175 0 2 6 1]
+
+
+
+["agent" 91 -2 4 4 1]
+
+
+
+["agent" 43 0 3 3 1]
+
+
+
+["agent" 334 -2 4 4 1]
+
+
+
+["agent" 47 -1 2 4 1]
+
+
+
+["agent" 195 -2 4 5 1]
+
+
+
+["agent" 350 -1 4 6 1]
+
+
+
+["agent" 289 0 1 1 1]
+
+
+
+["agent" 29 -1 3 3 1]
+
+
+
+["agent" 352 -2 3 2 1]
+
+
+
+["agent" 335 -2 2 1 1]
+
+
+
+["agent" 308 -3 4 2 1]
+
+
+
+["agent" 73 -4 4 1 1]
+
+
+
+["agent" 316 0 4 4 1]
+
+
+
+["agent" 363 0 4 3 1]
+
+
+
+["agent" 332 -1 2 6 1]
+
+
+
+["agent" 277 -2 3 1 1]
+
+
+
+["agent" 193 -2 3 4 1]
+
+
+
+["agent" 359 -2 2 1 1]
+
+
+
+["agent" 312 0 3 6 1]
+
+
+
+["agent" 291 -3 3 1 1]
+
+
+
+["agent" 35 0 3 6 1]
+
+
+
+["agent" 325 -2 3 2 1]
+
+
+
+["agent" 164 -1 1 6 1]
+
+
+
+["agent" 0 -3 3 1 1]
+
+
+
+["agent" 229 0 1 3 1]
+
+
+
+["agent" 80 0 2 4 1]
+
+
+
+["agent" 238 -2 3 1 1]
+
+
+
+["agent" 386 -3 4 6 1]
+
+
+
+["agent" 124 -1 3 2 1]
+
+
+
+["agent" 243 0 2 5 1]
+
+
+
+["agent" 114 -1 3 3 1]
+
+
+
+["agent" 160 -1 3 2 1]
+
+
+
+["agent" 33 -2 2 1 1]
+
+
+
+["agent" 349 0 1 1 1]
+
+
+
+["agent" 15 -1 2 6 1]
+
+
+
+["agent" 307 0 3 6 1]
+
+
+
+["agent" 184 -1 2 1 1]
+
+
+
+["agent" 135 -1 3 6 1]
+
+
+
+["agent" 26 0 2 3 1]
+
+
+
+["agent" 142 0 3 4 1]
+
+
+
+["agent" 395 -2 3 1 1]
+
+
+
+["agent" 196 -1 1 1 1]
+
+
+
+["agent" 319 -1 4 4 1]
+
+
+
+["agent" 84 -1 4 4 1]
+
+
+
+["agent" 108 -3 3 5 1]
+
+
+
+["agent" 86 -1 4 1 1]
+
+
+
+["agent" 284 0 2 4 1]
+
+
+
+["agent" 64 0 4 6 1]
+
+
+
+["agent" 381 -1 3 3 1]
+
+
+
+["agent" 245 0 2 1 1]
+
+
+
+["agent" 380 0 3 2 1]
+
+
+
+["agent" 21 0 2 1 1]
+
+
+
+["agent" 242 0 1 4 1]
+
+
+
+["agent" 250 -2 3 1 1]
+
+
+
+["agent" 159 -1 3 2 1]
+
+
+
+["agent" 220 -1 2 2 1]
+
+
+
+["agent" 256 0 3 5 1]
+
+
+
+["agent" 364 -1 3 2 1]
+
+
+
+["agent" 239 -2 4 5 1]
+
+
+
+["agent" 40 -1 4 5 1]
+
+
+
+***********************
+acabou

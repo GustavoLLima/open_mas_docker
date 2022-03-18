@@ -1,0 +1,1000 @@
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 797 0 1 3 "2-3-2"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 749 -2 4 1 2]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 705 -2 4 3 "2-2-1-1-2"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 27 -2 4 1 "1-3-1-1"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 646 -1 4 4 "2-2-2-3"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 363 0 3 5 "1-1-2"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 253 -2 4 3 "1-2"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 640 0 2 2 "2-3-3"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 704 -3 4 2 "2-2-3-2"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 702 -1 4 6 "2-3-3-1"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 701 0 3 1 "2-1"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 716 -3 4 2 "2-1"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 443 0 4 5 "2-1-2"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 467 -1 4 2 2]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 62 0 3 6 "1-1-3-1-1-3"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 451 0 2 4 "2-3-2-3"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 346 -2 4 5 "1-2-2-2-1"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 261 -1 4 1 "1-3-3-3"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 600 -1 3 4 "2-3-2"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 421 -2 3 2 "2-1-2-1-1-2-1"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 540 -1 4 1 "2-1-2-1"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 715 0 1 1 "2-3"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 199 -2 4 1 "1-2"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 87 -1 4 4 "1-1"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 25 0 4 6 "1-3"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 535 -3 3 1 2]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 723 -1 3 3 "2-1"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 687 -3 4 2 "2-1"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 342 -1 3 5 1]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 437 0 2 6 2]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 76 -1 4 3 "1-3"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 255 0 2 1 "1-3-1"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 163 0 4 6 "1-2-1"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 566 0 2 2 "2-3-1"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 487 0 2 1 "2-1"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 36 -2 4 6 "1-2"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 748 -2 4 1 "2-2-1"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 570 -1 3 6 "2-2-1-1"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 2 -1 4 6 "1-2"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 375 -2 4 4 "1-3-3-3"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 314 -1 3 5 "1-3"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 352 -1 3 2 "1-2-3-3"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 468 0 4 4 2]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 137 -1 4 6 "1-3"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 645 -2 4 1 "2-2"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 334 -1 4 4 "1-3"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 43 -1 4 1 "1-1"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 616 -1 2 1 "2-3"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 530 -1 4 5 2]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 557 0 4 1 2]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 207 0 3 6 "1-3"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 197 0 2 6 "1-3"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 116 0 3 3 "1-3-1-1"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 502 0 3 6 "2-2-2-1-1"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 343 -1 4 6 "1-2-2-1"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 656 -1 3 5 "2-2"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 617 0 3 6 "2-2-2-1-2"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 633 0 3 5 "2-1-1"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 227 0 3 1 1]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 682 -1 4 1 "2-1"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 428 -1 3 3 "2-2"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 27 -3 4 1 "1-3-1-1-1"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 792 -1 2 3 "2-1-1"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 264 -2 3 1 "1-3-2-2"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 0 -1 4 6 "1-3"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 308 -1 4 1 "1-2"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 501 0 2 6 "2-3"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 391 -1 2 2 1]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 353 0 2 1 "1-2-3-1-1-1"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 193 -1 4 6 "1-2"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 92 -2 3 5 "1-1-3-1"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 233 -1 2 6 "1-3"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 746 -2 4 4 "2-1-1"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 733 -1 4 5 "2-2"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 450 -2 4 6 "2-2-2"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 160 -2 4 3 "1-3"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 425 -3 4 2 "2-2-2"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 570 0 3 6 "2-2-1-1-2"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 449 -1 4 6 "2-1"]
+Random model chosen:
+model0
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 557 0 4 1 "2-3"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 769 0 1 2 2]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 127 -4 4 1 "1-1-1"]
+Random model chosen:
+model2
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+Choosing a random agent to be revived
+Agent chosen:
+["agent" 214 -3 4 2 "1-1-3"]
+Random model chosen:
+model1
+done
+model[2]:
+/teste/important/send_agent.txt
+model[2]:
+/teste/important/send_agent2.txt
+model[2]:
+/teste/important/send_agent3.txt
+acabou
