@@ -14,9 +14,12 @@ import copy
 import socket
 import sys
 import json
-from time import time, sleep
+# from time import time, sleep
+import time
 
 from types import SimpleNamespace
+
+from datetime import datetime
 
 # export_file = "/teste/teste.txt"
 # config_file = "/teste/teste_config.txt"
@@ -39,9 +42,21 @@ def execute_model():
     #cmd = "netlogo-headless.bat --model teste6_fitness_desvio.nlogo --experiment experiment2"
     # cmd = "netlogo-headless.bat --model "+'"C:\\Program Files\\NetLogo 6.0.4\\teste6_fitness_desvio.nlogo"'+" --experiment experiment2"
     #cmd = "/opt/netlogo/netlogo-headless.sh --model /teste/novo_model.nlogo --experiment experiment3"
+    time.sleep(10)
+
+    now = datetime.now()
+
+    current_time = now.strftime("%H:%M:%S")
+    print("Starting model on: ", current_time)
+
     cmd = "/opt/netlogo/netlogo-headless.sh --model "+model_file+" --experiment "+experiment
     print (cmd)
     os.system(cmd)
+
+    now = datetime.now()
+
+    current_time = now.strftime("%H:%M:%S")
+    print("Model finished on: ", current_time)
 
 def delete_file(filename):
     if os.path.exists(filename):

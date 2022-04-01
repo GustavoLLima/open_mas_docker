@@ -1,0 +1,1 @@
+/opt/netlogo/netlogo-headless.sh --model /teste/m1_varios_arquivos.nlogo --experiment experiment1

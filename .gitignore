@@ -1,6 +1,6 @@
-logs/**
+#logs/**
 
 
-teste/important/**
+#teste/important/**
 # exception to the rule
-!teste/important/.gitkeep
+#!teste/important/.gitkeep

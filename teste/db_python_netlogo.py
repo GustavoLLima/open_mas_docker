@@ -232,6 +232,7 @@ def teste_router():
         cursor.execute(sql2)
         # Make sure data is committed to the database
         cnx.commit()
+        print("Agent_id: "+agent_id+" sended to model "+model_to_send)
       # except mysql.connector.ProgrammingError as err:
       except mysql.connector.Error as err:
         print("Failed inserting on database: {}".format(err))

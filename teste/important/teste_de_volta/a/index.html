@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<script type="text/javascript">
+		var m1_alive = [
+			1,
+			2
+		]
+
+
+		var m2_alive = [
+			3,
+			4
+		]
+
+		var m1_on_db = [
+			1,
+			2
+		]
+
+
+		var m2_on_db = [
+			3,
+			4
+		]
+
+		var teste = 0;
+		for (var i = 1; i <= 799; i++) {
+			if (!m1_alive.includes(i) && !m2_alive.includes(i) && !m1_on_db.includes(i) && !m2_on_db.includes(i)){
+				console.log(i + " ta em nenhum");
+				teste += 1;
+			}
+		}
+		if (teste > 0)
+			console.log("azedou")
+		else
+			console.log("ta tudo certo")
+	</script>
+</body>
+</html>

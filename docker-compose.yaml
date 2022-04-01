@@ -40,7 +40,7 @@ services:
       context: .
       dockerfile: Dockerfile_PYTHON
     tty: true           # Container alive
-    #command: "python3 /teste/cartorio.py"
+    command: "python3 /teste/router.py"
     environment:
     - PYTHONUNBUFFERED=1
     - request_input_file=${request_input_file}
@@ -51,7 +51,7 @@ services:
     networks:
       - my_network
     depends_on:
-        - phpmyadmin
+        - cartorio
 
   db:
     container_name: db
@@ -121,7 +121,7 @@ services:
       context: .
       dockerfile: Dockerfile_NETLOGO
     tty: true           # Container alive
-    # command: "python3 /teste/python_execute_netlogo.py"
+    command: "/bin/sh -c 'python3 /teste/python_execute_netlogo.py >> /teste/important/m1_output.txt'"
     environment:
     - PYTHONUNBUFFERED=1
     - my_hostname=modelo_1
@@ -134,14 +134,14 @@ services:
       - my_network
     depends_on:
       # - "php"
-      - "cartorio"
+      - "router"
 
   modelo_2:
     build:
       context: .
       dockerfile: Dockerfile_NETLOGO
     tty: true           # Container alive
-    # command: "python3 /teste/python_execute_netlogo.py"
+    command: "/bin/sh -c 'python3 /teste/python_execute_netlogo.py >> /teste/important/m2_output.txt'"
     environment:
     - PYTHONUNBUFFERED=1
     - my_hostname=modelo_2
@@ -154,7 +154,6 @@ services:
       - my_network
     depends_on:
       # - "php"
-      - "cartorio"
       - "modelo_1"
 
   # router:
