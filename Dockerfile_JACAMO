@@ -1,4 +1,5 @@
-FROM openjdk:8-jdk-alpine
+#FROM openjdk:8-jdk-alpine
+FROM openjdk:15-jdk-alpine
 
 ENV JACAMO_HOME=/jacamo/build
 ENV PATH $PATH:$JAVA_HOME/bin:$JACAMO_HOME/scripts

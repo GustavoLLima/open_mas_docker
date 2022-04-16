@@ -1,0 +1,224 @@
+// beliefs and rules
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_236399]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_236273]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_230585]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_230477]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_229037]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_223547]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_212297]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_210677]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_207797]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_202145]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_202019]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_196691]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_194315]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_191525]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_186491]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_183287]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_173552]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_165830]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_161096]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_160988]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_160304]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_153032]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_152924]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_138833]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_134153]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_134009]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_130286]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_127424]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_124508]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_124436]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_124364]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_94355]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_92435]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_90950]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_80165]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_80039]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_75473]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_68183]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_65078]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_64934]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_57131]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_47921]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_47867]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_47813]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_25718]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_21710]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_12449]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_9965]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_9839]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_5345]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_5156]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([],[]).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+initial_print6.
+joinedWsp(cobj_0,main,"/main")[artifact_id(cobj_1),artifact_name(session_250),percept_type(obs_prop),source(percept),workspace("/main",cobj_0)].
+joinedWsp(cobj_0,main,"/main")[artifact_id(cobj_1),artifact_name(session_250),percept_type(obs_prop),source(percept),workspace("/main",cobj_0)].
+initial_print4.
+initial_print1.
+teste(0.8011912653964716).
+teste(0.406041317346423).
+teste(0.270694692805876).
+teste(0.9294417224492943).
+teste(0.06482749198605642).
+teste(0.6539385835225305).
+teste(0.0721803275617563).
+teste(0.24858058819727968).
+teste(0.9132284646666334).
+teste(0.030103676286572734).
+teste(0.20200492472335652).
+teste(0.30044235174456047).
+teste(0.25371278352632964).
+teste(0.020069747484583234).
+teste(0.7591460937513247).
+teste(0.3780081877603786).
+teste(0.4658796255944009).
+teste(0.09841186996691098).
+teste(0.2422054797683586).
+teste(0.2921832439024491).
+teste(0.27253803976137914).
+teste(0.5872199115166383).
+teste(0.58747932138754).
+teste(0.11304740214023656).
+teste(0.3616705873845296).
+teste(7.524401839821282E-4).
+teste(0.8811317397129493).
+teste(0.4767588123316553).
+teste(0.7166274405846444).
+teste(0.15064418572133298).
+teste(0.2968800382528338).
+teste(0.1905399700810786).
+teste(0.7775820471335027).
+teste(0.42572274110322994).
+teste(0.9645268593028875).
+teste(0.5611448443940578).
+teste(0.198716716321934).
+teste(0.49552906670502905).
+teste(0.32988548991968103).
+teste(0.8181311596844871).
+teste(0.7094954414254).
+teste(0.6762712783285959).
+teste(0.48140897659478776).
+teste(0.6980686724860545).
+teste(0.3273408588762694).
+teste(0.9645447736760476).
+teste(0.31337314843943986).
+teste(0.7504786114058093).
+teste(0.9591398876203576).
+teste(0.7168294909703378).
+teste(0.01830577242965925).
+
+
+// initial goals
+!start.
+!say(hello).
+
+
+// plans from file:src/agt/list/250.asl
+
+@p__330[source(self),url("file:src/agt/list/250.asl"),url("file:src/agt/regular_agent.asl")] +initial_print1 <- .print("Hello there. I'm a saver agent"); ?agent_id(V0); ?path(V1); .random(R); +teste(R); ?teste(R); .print("R: ",R); .abolish(agent_id(_5131)); .abolish(path(_5132)); ?sugar(B0); ?metabolism(B1); ?vision(B2); .print("Sugar ",B0); .print("Metabolism ",B1); .print("Vision ",B2); .abolish(sugar(_5133)); .abolish(metabolism(_5134)); .abolish(vision(_5135)); .my_name(X); .concat("src/agt/list/",X,".asl",NAME); .save_agent(NAME,[start,say(hello)]); .print("Saved my information on file. Sending message to remove agent from simulation"); .send(killer_agent,tell,kill(V0,V1,X,B0,B1,B2)); .send(killer_agent,untell,kill(V0,V1,X,B0,B1,B2)).
+@p__331[source(self),url("file:src/agt/list/250.asl"),url("file:src/agt/regular_agent.asl")] +initial_print5 <- .print("Hello there. I'm a saver agent"); ?agent_id(V0); ?path(V1); .abolish(agent_id(_5136)); .abolish(path(_5137)); ?sugar(B0); ?metabolism(B1); ?vision(B2); .print("Sugar ",B0); .print("Metabolism ",B1); .print("Vision ",B2); .abolish(sugar(_5138)); .abolish(metabolism(_5139)); .abolish(vision(_5140)); (NewA = (B0+1)); (NewB = (B1+1)); (NewC = (B2+1)); .print("Sugar after",NewA); .print("Metabolism after",NewB); .print("Vision after",NewC); +sugar(NewA); +metabolism(NewB); +vision(NewC); ?sugar(A); ?metabolism(B); ?vision(C); .print("Sugar ",A); .print("Metabolism ",B); .print("Vision ",C); .my_name(X); .concat("src/agt/list/",X,".asl",NAME); .save_agent(NAME,[start,say(hello)]); .print("Saved my information on file. Sending message to remove agent from simulation").
+@p__332[source(self),url("file:src/agt/list/250.asl"),url("file:src/agt/regular_agent.asl")] +initial_print7 <- .print("Hello there. I'm a saver agent"); ?agent_id(V0); ?path(V1); .abolish(agent_id(_5141)); .abolish(path(_5142)); ?sugar(B0); ?metabolism(B1); ?vision(B2); .print("Sugar ",B0); .print("Metabolism ",B1); .print("Vision ",B2); .abolish(sugar(_5143)); .abolish(metabolism(_5144)); .abolish(vision(_5145)); .my_name(X); .concat("src/agt/list/",X,".asl",NAME); .save_agent(NAME,[start,say(hello)]); .print("Saved my information on file. Sending message to remove agent from simulation").
+

@@ -1,21 +1,27 @@
 version: "3.8"
 services:
-  # jacamo:
-  #   build:
-  #     context: .
-  #     dockerfile: Dockerfile_JACAMO
-  #   tty: true           # Container alive
-  #   command: "jacamo ${jacamo_file}"
-  #   ports:
-  #     - "3271:3271"
-  #     - "3272:3272"
-  #     - "3273:3273"
-  #   volumes:
-  #     - ./teste:/teste
-  #   networks:
-  #     - my_network
+  jacamo:
+    container_name: jacamo
+    build:
+      context: .
+      #dockerfile: Dockerfile_JACAMO
+      dockerfile: Dockerfile_GRADLE
+    tty: true           # Container alive
+    command: "/bin/sh -c 'gradle >> /teste/important/gradle_output.txt'"
+    ports:
+      - "3271:3271"
+      - "3272:3272"
+      - "3273:3273"
+    volumes:
+      - ./teste:/teste
+      - ./teste/jacamo/INTEGRANDO COM API/teste-gradle-docker/fff:/home/gradle/project
+    networks:
+      - my_network
+    depends_on:
+        - modelo_2
 
   cartorio:
+    container_name: cartorio
     build:
       context: .
       dockerfile: Dockerfile_PYTHON
@@ -35,7 +41,30 @@ services:
         - phpmyadmin
 
 
+  api:
+    container_name: api
+    build:
+      context: .
+      dockerfile: Dockerfile_PYTHON
+    tty: true           # Container alive
+    command: "python3 /teste/api.py"
+    environment:
+    - PYTHONUNBUFFERED=1
+    - request_input_file=${request_input_file}
+    - dead_agents_file=${dead_agents_file}
+    - model_input_file=${model_input_file}
+    ports:
+        - "5000:5000"
+    volumes:
+      - ./teste:/teste
+    networks:
+      - my_network
+    depends_on:
+        - cartorio
+
+
   router:
+    container_name: router
     build:
       context: .
       dockerfile: Dockerfile_PYTHON
@@ -64,6 +93,8 @@ services:
         MYSQL_DATABASE: MYSQL_DATABASE
         MYSQL_USER: MYSQL_USER
         MYSQL_PASSWORD: MYSQL_PASSWORD
+    volumes:
+      - ./teste:/teste
     ports:
         - "9906:3306"
     networks:
@@ -101,22 +132,24 @@ services:
 #       - 80:80
 #     environment:
 #       - PMA_ARBITRARY=1
-  # php:
-  #   build:
-  #     context: .
-  #     dockerfile: Dockerfile_PHP
-  #   tty: true           # Container alive
-  #   environment:
-  #     - output_agents=${output_agents}
-  #   ports:
-  #     - "80:80"
-  #   volumes:
-  #     - ./teste:/var/www/html
-  #     - ./teste:/teste
-  #   networks:
-  #     - my_network
+  php:
+    container_name: php
+    build:
+      context: .
+      dockerfile: Dockerfile_PHP
+    tty: true           # Container alive
+    environment:
+      - output_agents=${output_agents}
+    ports:
+      - "80:80"
+    volumes:
+      - ./teste:/var/www/html
+      - ./teste:/teste
+    networks:
+      - my_network
 
   modelo_1:
+    container_name: modelo_1
     build:
       context: .
       dockerfile: Dockerfile_NETLOGO
@@ -137,6 +170,7 @@ services:
       - "router"
 
   modelo_2:
+    container_name: modelo_2
     build:
       context: .
       dockerfile: Dockerfile_NETLOGO

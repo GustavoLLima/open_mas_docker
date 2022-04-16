@@ -1,0 +1,40 @@
+// beliefs and rules
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_191159]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_126005]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_125843]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_62453]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_59648]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([],[]).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+initial_print6.
+joinedWsp(cobj_0,main,"/main")[artifact_id(cobj_1),artifact_name(session_206),percept_type(obs_prop),source(percept),workspace("/main",cobj_0)].
+joinedWsp(cobj_0,main,"/main")[artifact_id(cobj_1),artifact_name(session_206),percept_type(obs_prop),source(percept),workspace("/main",cobj_0)].
+initial_print4.
+initial_print1.
+teste(0.21733540688436437).
+teste(0.2507804856139483).
+teste(0.5050023193714386).
+teste(0.24225169386750378).
+teste(0.737663634227873).
+
+
+// initial goals
+!start.
+!say(hello).
+
+
+// plans from file:src/agt/list/206.asl
+
+@p__1116[source(self),url("file:src/agt/list/206.asl"),url("file:src/agt/regular_agent.asl")] +initial_print1 <- .print("Hello there. I'm a saver agent"); ?agent_id(V0); ?path(V1); .random(R); +teste(R); ?teste(R); .print("R: ",R); .abolish(agent_id(_59623)); .abolish(path(_59624)); ?sugar(B0); ?metabolism(B1); ?vision(B2); .print("Sugar ",B0); .print("Metabolism ",B1); .print("Vision ",B2); .abolish(sugar(_59625)); .abolish(metabolism(_59626)); .abolish(vision(_59627)); .my_name(X); .concat("src/agt/list/",X,".asl",NAME); .save_agent(NAME,[start,say(hello)]); .print("Saved my information on file. Sending message to remove agent from simulation"); .send(killer_agent,tell,kill(V0,V1,X,B0,B1,B2)); .send(killer_agent,untell,kill(V0,V1,X,B0,B1,B2)).
+@p__1117[source(self),url("file:src/agt/list/206.asl"),url("file:src/agt/regular_agent.asl")] +initial_print5 <- .print("Hello there. I'm a saver agent"); ?agent_id(V0); ?path(V1); .abolish(agent_id(_59628)); .abolish(path(_59629)); ?sugar(B0); ?metabolism(B1); ?vision(B2); .print("Sugar ",B0); .print("Metabolism ",B1); .print("Vision ",B2); .abolish(sugar(_59630)); .abolish(metabolism(_59631)); .abolish(vision(_59632)); (NewA = (B0+1)); (NewB = (B1+1)); (NewC = (B2+1)); .print("Sugar after",NewA); .print("Metabolism after",NewB); .print("Vision after",NewC); +sugar(NewA); +metabolism(NewB); +vision(NewC); ?sugar(A); ?metabolism(B); ?vision(C); .print("Sugar ",A); .print("Metabolism ",B); .print("Vision ",C); .my_name(X); .concat("src/agt/list/",X,".asl",NAME); .save_agent(NAME,[start,say(hello)]); .print("Saved my information on file. Sending message to remove agent from simulation").
+@p__1118[source(self),url("file:src/agt/list/206.asl"),url("file:src/agt/regular_agent.asl")] +initial_print7 <- .print("Hello there. I'm a saver agent"); ?agent_id(V0); ?path(V1); .abolish(agent_id(_59633)); .abolish(path(_59634)); ?sugar(B0); ?metabolism(B1); ?vision(B2); .print("Sugar ",B0); .print("Metabolism ",B1); .print("Vision ",B2); .abolish(sugar(_59635)); .abolish(metabolism(_59636)); .abolish(vision(_59637)); .my_name(X); .concat("src/agt/list/",X,".asl",NAME); .save_agent(NAME,[start,say(hello)]); .print("Saved my information on file. Sending message to remove agent from simulation").
+
