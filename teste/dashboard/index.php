@@ -21,7 +21,8 @@
   $out = array();
   // foreach (glob('../jacamo/src/src/agt/list/*.asl') as $filename) {
   // foreach (glob('../jacamo/INTEGRANDO COM API/eee/src/agt/list/*.asl') as $filename) {
-  foreach (glob('../jacamo/INTEGRANDO COM API/teste-gradle-docker/fff/src/agt/list/*.asl') as $filename) {
+  // foreach (glob('../jacamo/INTEGRANDO COM API/teste-gradle-docker/fff/src/agt/list/*.asl') as $filename) {
+  foreach (glob('../jacamo/integra_gold_miners/src/agt/list/*.asl') as $filename) {
     $p = pathinfo($filename);
     $out[] = $p['filename'];
   }
@@ -461,7 +462,8 @@
       //alert("value: "+fired_button);
 
       //'../jacamo/INTEGRANDO COM API/teste-gradle-docker/fff/src/agt/list/*.asl'
-      var url = '../jacamo/INTEGRANDO COM API/teste-gradle-docker/fff/src/agt/list/'+fired_button+'.asl';
+      //var url = '../jacamo/INTEGRANDO COM API/teste-gradle-docker/fff/src/agt/list/'+fired_button+'.asl';
+      var url = '../jacamo/integra_gold_miners/src/agt/list/'+fired_button+'.asl';
       // var url = '../jacamo/INTEGRANDO COM API/eee/src/agt/list/'+fired_button+'.asl';
       var xhr = new XMLHttpRequest();
       xhr.onload = function () {

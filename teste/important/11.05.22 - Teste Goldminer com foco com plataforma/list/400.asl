@@ -1,0 +1,112 @@
+// beliefs and rules
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_358417]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_358244]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_358197]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_348191]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_309621]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_261267]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_186028]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_181959]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::bel_no_source_self(NS::Content,Ans) :- (NS::Content[|LA] & (kqml::clear_source_self(LA,NLA) & ((Content =.. [F,T,_84050]) & (Ans =.. [NS,F,T,NLA])))).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+kqml::clear_source_self([],[]).
+kqml::clear_source_self([source(self)|T],NT) :- kqml::clear_source_self(T,NT).
+kqml::clear_source_self([A|T],[A|NT]) :- ((A \== source(self)) & kqml::clear_source_self(T,NT)).
+depot(4,5,27)[artifact_id(cobj_3),artifact_name(m2view),percept_type(obs_prop),source(percept),workspace("/main/mining",cobj_2)].
+depot(4,5,27)[artifact_id(cobj_3),artifact_name(m2view),percept_type(obs_prop),source(percept),workspace("/main/mining",cobj_2)].
+pos(2,17)[artifact_id(cobj_3),artifact_name(m2view),percept_type(obs_prop),source(percept),workspace("/main/mining",cobj_2)].
+pos(2,17)[artifact_id(cobj_3),artifact_name(m2view),percept_type(obs_prop),source(percept),workspace("/main/mining",cobj_2)].
+pos(3,17)[artifact_id(cobj_3),artifact_name(m2view),percept_type(obs_prop),source(percept),workspace("/main/mining",cobj_2)].
+pos(0,20)[artifact_id(cobj_3),artifact_name(m2view),percept_type(obs_prop),source(percept),workspace("/main/mining",cobj_2)].
+pos(6,19)[artifact_id(cobj_3),artifact_name(m2view),percept_type(obs_prop),source(percept),workspace("/main/mining",cobj_2)].
+pos(27,22)[artifact_id(cobj_3),artifact_name(m2view),percept_type(obs_prop),source(percept),workspace("/main/mining",cobj_2)].
+pos(29,20)[artifact_id(cobj_3),artifact_name(m2view),percept_type(obs_prop),source(percept),workspace("/main/mining",cobj_2)].
+pos(29,15)[artifact_id(cobj_3),artifact_name(m2view),percept_type(obs_prop),source(percept),workspace("/main/mining",cobj_2)].
+pos(10,12)[artifact_id(cobj_3),artifact_name(m2view),percept_type(obs_prop),source(percept),workspace("/main/mining",cobj_2)].
+score(0).
+initial_print1.
+gsize(4,35,35)[artifact_id(cobj_3),artifact_name(m2view),percept_type(obs_prop),source(percept),workspace("/main/mining",cobj_2)].
+gsize(4,35,35)[artifact_id(cobj_3),artifact_name(m2view),percept_type(obs_prop),source(percept),workspace("/main/mining",cobj_2)].
+focused(WksName,ArtName[artifact_type(Type)],ArtId) :- focusing(ArtId,ArtName,Type,_84008,WksName,_84009).
+joinedWsp(cobj_2,mining,"/main/mining")[artifact_id(cobj_1),artifact_name(session_400),percept_type(obs_prop),source(percept),workspace("/main",cobj_0)].
+joinedWsp(cobj_0,main,"/main")[artifact_id(cobj_1),artifact_name(session_400),percept_type(obs_prop),source(percept),workspace("/main",cobj_0)].
+joinedWsp(cobj_2,mining,"/main/mining")[artifact_id(cobj_1),artifact_name(session_400),percept_type(obs_prop),source(percept),workspace("/main",cobj_0)].
+joinedWsp(cobj_0,main,"/main")[artifact_id(cobj_1),artifact_name(session_400),percept_type(obs_prop),source(percept),workspace("/main",cobj_0)].
+joined(WksName,WksId) :- joinedWsp(WksId,WksName,_84010).
+last_dir(right).
+free.
+focusing(cobj_3,m2view,"mining.MiningPlanet",cobj_2,mining,"/main/mining")[artifact_id(cobj_4),artifact_name(body_400),percept_type(obs_prop),source(percept),workspace("/main/mining",cobj_2)].
+focusing(cobj_3,m2view,"mining.MiningPlanet",cobj_2,mining,"/main/mining")[artifact_id(cobj_4),artifact_name(body_400),percept_type(obs_prop),source(percept),workspace("/main/mining",cobj_2)].
+teste(0.9550826889094888).
+teste(0.41180284050767013).
+teste(0.8900065345088906).
+teste(0.1007915835080323).
+teste(0.09642116443300008).
+teste(0.37962566768184947).
+teste(0.18176758765133627).
+teste(0.5320528676288089).
+teste(0.19416352431249373).
+
+
+// initial goals
+!start.
+!say(hello).
+
+
+// plans from file:src/agt/list/400.asl
+
+@p__13133[source(self),url("file:src/agt/list/400.asl"),url("jar:file:/home/gradle/.gradle/caches/modules-2/files-2.1/org.jacamo/jacamo/1.0/bda076187adb93bc05a91ab0cdcb2fb44b039ed6/jacamo-1.0.jar!/templates/common-cartago.asl")] +!jcm::focus_env_art([],_84005).
+@p__13134[source(self),url("file:src/agt/list/400.asl"),url("jar:file:/home/gradle/.gradle/caches/modules-2/files-2.1/org.jacamo/jacamo/1.0/bda076187adb93bc05a91ab0cdcb2fb44b039ed6/jacamo-1.0.jar!/templates/common-cartago.asl")] +!jcm::focus_env_art(L,0) <- .print("Error focusing on environment artifact ",L).
+@lf_env_art[atomic,source(self),url("file:src/agt/list/400.asl"),url("jar:file:/home/gradle/.gradle/caches/modules-2/files-2.1/org.jacamo/jacamo/1.0/bda076187adb93bc05a91ab0cdcb2fb44b039ed6/jacamo-1.0.jar!/templates/common-cartago.asl")] +!jcm::focus_env_art([H|T],Try) <- !jcm::focus_env_art(H,Try); !jcm::focus_env_art(T,Try).
+@p__13135[source(self),url("file:src/agt/list/400.asl"),url("jar:file:/home/gradle/.gradle/caches/modules-2/files-2.1/org.jacamo/jacamo/1.0/bda076187adb93bc05a91ab0cdcb2fb44b039ed6/jacamo-1.0.jar!/templates/common-cartago.asl")] +!jcm::focus_env_art(art_env(W,"",_84006),Try) <- .concat("/main/",W,FullW); joinWorkspace(FullW,_84007); .print("joinned workspace ",FullW).
+@p__13136[source(self),url("file:src/agt/list/400.asl"),url("jar:file:/home/gradle/.gradle/caches/modules-2/files-2.1/org.jacamo/jacamo/1.0/bda076187adb93bc05a91ab0cdcb2fb44b039ed6/jacamo-1.0.jar!/templates/common-cartago.asl")] +!jcm::focus_env_art(art_env(W,A,NS),Try) <- .concat("/main/",W,FullW); .print("focusing on artifact ",A," (at workspace ",FullW,") using namespace ",NS); joinWorkspace(FullW,WId); lookupArtifact(A,AId)[wid(WId)]; NS::focus(AId)[wid(WId)].
+@p__13137[source(self),url("file:src/agt/list/400.asl"),url("jar:file:/home/gradle/.gradle/caches/modules-2/files-2.1/org.jacamo/jacamo/1.0/bda076187adb93bc05a91ab0cdcb2fb44b039ed6/jacamo-1.0.jar!/templates/common-cartago.asl")] -!jcm::focus_env_art(L,Try) <- .print("waiting a bit to focus on ",L," try #",Try); .wait(200); !jcm::focus_env_art(L,(Try-1)).
+@p__13138[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +initial_print1 <- .print("Hello there. I'm a saver agent"); ?agent_id(V0); ?path(V1); .random(R); +teste(R); ?teste(R); .print("R: ",R); .abolish(agent_id(_84011)); .abolish(path(_84012)); ?sugar(B0); ?metabolism(B1); ?vision(B2); .print("Sugar ",B0); .print("Metabolism ",B1); .print("Vision ",B2); .abolish(sugar(_84013)); .abolish(metabolism(_84014)); .abolish(vision(_84015)); .my_name(X); .concat("src/agt/list/",X,".asl",NAME); .save_agent(NAME,[start,say(hello)]); .print("Saved my information on file. Sending message to remove agent from simulation"); .send(killer_agent,tell,kill(V0,V1,X,B0,B1,B2)); .send(killer_agent,untell,kill(V0,V1,X,B0,B1,B2)).
+@p__13139[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +free : (gsize(_84016,W,H) & (jia.random(RX,(W-1)) & jia.random(RY,(H-1)))) <- .print("I am going to go near (",RX,",",RY,")"); !go_near(RX,RY).
+@p__13140[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +free <- .wait(100); -+free.
+@p__13141[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +near(X,Y) : free <- -+free.
+@p__13142[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!go_near(X,Y) : free <- -near(_84017,_84018); -last_dir(_84019); !near(X,Y).
+@p__13143[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!near(X,Y) : (pos(AgX,AgY) & jia.neighbour(AgX,AgY,X,Y)) <- .print("I am at ","(",AgX,",",AgY,")"," which is near (",X,",",Y,")"); +near(X,Y).
+@p__13144[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!near(X,Y) : (pos(AgX,AgY) & last_dir(skip)) <- .print("I am at ","(",AgX,",",AgY,")"," and I can't get to' (",X,",",Y,")"); +near(X,Y).
+@p__13145[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!near(X,Y) : not (near(X,Y)) <- !next_step(X,Y); !near(X,Y).
+@p__13146[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!near(X,Y) <- !near(X,Y).
+@p__13147[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!next_step(X,Y) : pos(AgX,AgY) <- jia.get_direction(AgX,AgY,X,Y,D); -+last_dir(D); D.
+@p__13148[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!next_step(X,Y) : not (pos(_84020,_84021)) <- !next_step(X,Y).
+@p__13149[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] -!next_step(X,Y) <- -+last_dir(null); !next_step(X,Y).
+@p__13150[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!pos(X,Y) : pos(X,Y) <- .print("I've reached ",X,"x",Y).
+@p__13151[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!pos(X,Y) : not (pos(X,Y)) <- !next_step(X,Y); !pos(X,Y).
+@p__13152[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +cell(X,Y,gold) <- +gold(X,Y).
+@pcell[atomic,source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +gold(X,Y) : (not (carrying_gold) & free) <- -free; .print("Gold perceived: ",gold(X,Y)); !init_handle(gold(X,Y)).
+@pcell2[atomic,source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +gold(X,Y) : (not (carrying_gold) & (not (free) & (.desire(handle(gold(OldX,OldY))) & (pos(AgX,AgY) & (jia.dist(X,Y,AgX,AgY,DNewG) & (jia.dist(OldX,OldY,AgX,AgY,DOldG) & (DNewG < DOldG))))))) <- .drop_desire(handle(gold(OldX,OldY))); .print("Giving up current gold ",gold(OldX,OldY)," to handle ",gold(X,Y)," which I am seeing!"); !init_handle(gold(X,Y)).
+@pih1[atomic,source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!init_handle(Gold) : .desire(near(_84022,_84023)) <- .print("Dropping near(_,_) desires and intentions to handle ",Gold); .drop_desire(near(_84024,_84025)); !init_handle(Gold).
+@pih2[atomic,source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!init_handle(Gold) : pos(X,Y) <- .print("Going for ",Gold); !!handle(Gold).
+@p__13153[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!handle(gold(X,Y)) : not (free) <- .print("Handling ",gold(X,Y)," now."); !pos(X,Y); !ensure(pick,gold(X,Y)); ?depot(_84026,DX,DY); !pos(DX,DY); !ensure(drop,0); .print("Finish handling ",gold(X,Y)); ?score(S); -+score((S+1)); .send(leader,tell,dropped); !choose_gold.
+@p__13154[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] -!handle(G) : G <- .print("failed to catch gold ",G); .abolish(G); !!choose_gold.
+@p__13155[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] -!handle(G) <- .print("failed to handle ",G,", it isn't in the BB anyway"); !!choose_gold.
+@p__13156[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!ensure(pick,_84027) : (pos(X,Y) & gold(X,Y)) <- pick; ?carrying_gold; -gold(X,Y).
+@p__13157[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!ensure(drop,_84028) : (carrying_gold & (pos(X,Y) & depot(_84029,X,Y))) <- drop.
+@p__13158[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +winning(A,S)[source(leader)] : .my_name(A) <- -winning(A,S); .print("I am the greatest!!!").
+@p__13159[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +winning(A,S)[source(leader)] <- -winning(A,S).
+@p__13160[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!choose_gold : not (gold(_84030,_84031)) <- -+free.
+@p__13161[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!choose_gold : gold(_84032,_84033) <- .findall(gold(X,Y),gold(X,Y),LG); !calc_gold_distance(LG,LD); .length(LD,LLD); (LLD > 0); .print("Gold distances: ",LD,LLD); .min(LD,d(_84034,NewG)); .print("Next gold is ",NewG); !!handle(NewG).
+@p__13162[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] -!choose_gold <- -+free.
+@p__13163[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!calc_gold_distance([],[]).
+@p__13164[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!calc_gold_distance([gold(GX,GY)|R],[d(D,gold(GX,GY))|RD]) : pos(IX,IY) <- jia.dist(IX,IY,GX,GY,D); !calc_gold_distance(R,RD).
+@p__13165[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +!calc_gold_distance([_84035|R],RD) <- !calc_gold_distance(R,RD).
+@p__13166[source(self),url("file:src/agt/list/400.asl"),url("file:src/agt/miner2.asl")] +end_of_simulation(S,_84036) <- .drop_all_desires; .abolish(gold(_84037,_84038)); .abolish(picked(_84039)); -+free; .print("-- END ",S," --").
+
