@@ -95,7 +95,49 @@ def output_php():
   print("enviando: "+str(return_list))
   return jsonify(return_list)
 
+@app.route('/api/v1/resources/check_new_agents_1', methods=['GET'])
+def check_new_agentss_1():
 
+  query_parameters = request.args
+  modelo = query_parameters.get('model')
+
+  return_list = []
+  to_update = []
+
+  cnx = mysql.connector.connect(user='MYSQL_USER', password='MYSQL_PASSWORD',
+                                 host='db',
+                                 database='MYSQL_DATABASE')
+  cursor = cnx.cursor()
+  query = ("SELECT id, agent_id, data, path, proccessed FROM "+modelo+" "
+            "WHERE proccessed = %s AND %s ORDER BY created_at ASC LIMIT 1")
+
+  cursor.execute(query, (0, "1=1"))
+
+  for (id, agent_id, data, path, proccessed) in cursor:
+    return_list.append([agent_id, data, path])
+    to_update.append(id)
+
+  cursor.close()
+
+  for tupla in to_update:
+    try:
+      cursor = cnx.cursor()
+      # temporary_query = "UPDATE "+modelo+" SET asl_file_path = 123456 WHERE id = "+str(tupla)+"; "
+      # temporary_query = "UPDATE "+modelo+" SET proccessed = 0 WHERE id = "+str(tupla)+"; "
+      temporary_query = "UPDATE "+modelo+" SET proccessed = 1 WHERE id = "+str(tupla)+"; "
+      query = (temporary_query)
+      cursor.execute(temporary_query)
+      cnx.commit()
+    # except mysql.connector.ProgrammingError as err:
+    except mysql.connector.Error as err:
+      print("Failed inserting on database: {}".format(err))
+      teste_exception(err)
+    finally:
+      cursor.close()
+
+  cnx.close()
+  print("enviando: "+str(return_list))
+  return jsonify(return_list)
 
 @app.route('/api/v1/resources/check_new_agents', methods=['GET'])
 def check_new_agentss():

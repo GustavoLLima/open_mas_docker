@@ -2,13 +2,14 @@ initial_print.
 +initial_print : true
   <- .print("I'm a killer agent").
 
+@pteste4[atomic]
 +kill(V0, V1, X, B0, B1, B2) : true
   <- .print("I've received a message to kill agent ",X);
   	 .print("Killing agent ",X);
-  	 mylib.aaa_my_delete_ag(V0, V1, X, B0, B1, B2);
+  	 mylib.my_delete_ag(V0, V1, X, B0, B1, B2);
   	 .wait(2000);
   	 /*.kill_agent(X, 0);*/
-     .print("Agent killed").
+     .print("This agent has being removed from the simulation: ",X).
 
 +previous_information(X) : true
   <- 
@@ -21,7 +22,7 @@ initial_print.
   .print("Previous Information Function:");
   .print("My previous information X, Y, Z: ", X, Y, Z);
   .print("My previous information TESTE2: ", TESTE2);
-  mylib.aaa_my_delete_ag(X, Y, Z);
+  mylib.my_delete_ag(X, Y, Z);
   /* -previous_information_all(X, Y, Z); */
   .print("Sended to aaa_my_delete_ag").
 

@@ -1,0 +1,3 @@
+funcionando com foco, só jogar no docker-compose a pasta
+
+antes de fazer fila

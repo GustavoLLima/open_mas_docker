@@ -1,0 +1,4 @@
+ATUALMENTE FUNCIONANDO FORA DO DOCKER
+SE FOR NO DOCKER, ATUALIZAR O MY_CREATE E DELETE
+
+Funciona por fila, apenas 1 agente por vez. Rodando local (fora do docker)
