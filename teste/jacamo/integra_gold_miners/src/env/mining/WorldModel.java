@@ -504,4 +504,30 @@ public class WorldModel extends GridWorldModel {
         return model;
     }
 
+    /** world with gold, no obstacle */
+    static WorldModel world7() throws Exception {
+        WorldModel model = WorldModel.create(35, 35, 4);
+        model.setId("Scenario 7");
+        model.setDepot(5, 27);
+        //model.setAgPos(0, 1, 0);
+        model.setAgPos(1, 20, 0);
+        //model.setAgPos(2, 3, 20);
+        //model.setAgPos(3, 20, 20);
+        model.add(WorldModel.GOLD, 20, 13);
+        model.add(WorldModel.GOLD, 15, 20);
+        model.add(WorldModel.GOLD, 1, 1);
+        model.add(WorldModel.GOLD, 3, 5);
+        model.add(WorldModel.GOLD, 24, 24);
+        model.add(WorldModel.GOLD, 20, 20);
+        model.add(WorldModel.GOLD, 20, 21);
+        model.add(WorldModel.GOLD, 20, 22);
+        model.add(WorldModel.GOLD, 20, 23);
+        model.add(WorldModel.GOLD, 20, 24);
+        model.add(WorldModel.GOLD, 19, 20);
+        model.add(WorldModel.GOLD, 19, 21);
+        model.add(WorldModel.GOLD, 34, 34);
+        model.setInitialNbGolds(model.countObjects(WorldModel.GOLD));
+        return model;
+    }
+
 }

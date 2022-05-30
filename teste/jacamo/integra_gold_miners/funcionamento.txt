@@ -1,3 +1,5 @@
+30.05.22 - Atualmente funciona fora do docker. Se for no docker, atualizar o my_create e delete. Vai entrar alterações do modelo original pra criar o case 7, com só 1 agente (incluir case7 no MiningPlanet e WorldModel implementa o novo cenário)
+
 ATUALMENTE FUNCIONANDO FORA DO DOCKER
 SE FOR NO DOCKER, ATUALIZAR O MY_CREATE E DELETE
 
