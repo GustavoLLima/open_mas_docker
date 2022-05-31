@@ -59,7 +59,7 @@ public class MiningPlanet extends Artifact {
     @OPERATION void drop() throws Exception {
         if (sleep > 0) await_time(sleep);
         model.drop(agId);
-        view.udpateCollectedGolds();
+        if (hasGUI) { view.udpateCollectedGolds(); }
         updateAgPercept();
     }
     @OPERATION void skip() {

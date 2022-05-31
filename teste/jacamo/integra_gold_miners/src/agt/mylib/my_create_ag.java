@@ -139,7 +139,9 @@ public class my_create_ag extends DefaultInternalAction {
         //     has_df = true
         // }
 
-        if (!has_df && names.size() == 3) {
+        //30.05.22 - Teste, funciona, testando se da pra não se importar com o df
+        //if (!has_df && names.size() == 3) {
+        if ((!has_df && names.size() == 3) || (has_df && names.size() == 4)) {
             System.out.println("3 agents and no df, checking if there is a new agent on API to be created...");
 
             try {
