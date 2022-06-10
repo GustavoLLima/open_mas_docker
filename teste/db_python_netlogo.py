@@ -80,6 +80,77 @@ def teste_recebimento(modelo):
 #     return "3"
 
 def teste_router():
+  #router_type = "random"
+  router_type = "sequential"
+  print("Router type:"+router_type)
+  while True:
+    cnx = mysql.connector.connect(user='MYSQL_USER', password='MYSQL_PASSWORD',
+                                 host='db',
+                                 database='MYSQL_DATABASE')
+    cursor = cnx.cursor()
+
+    if(router_type == "random"):
+      order = "RAND()"
+    elif(router_type == "sequential"):
+      order = "created_at ASC"
+
+    query = ("SELECT id, agent_id, data, path, proccessed FROM router "
+              "WHERE proccessed = 0 ORDER BY "+order)
+    modelos_list = ["m1", "m2", "m3"]
+    #model_to_send = random.choice(modelos_list)
+    cursor.execute(query)
+
+
+    return_list = []
+    delete_list = []
+
+    for (id, agent_id, data, path, proccessed) in cursor:
+      return_list.append([agent_id, data, path, id])
+
+    cursor.close()
+    # modelos_list = ["m1", "m2", "m3"]
+
+    cnx.close()
+
+    for tupla in return_list:
+      cnx = mysql.connector.connect(user='MYSQL_USER', password='MYSQL_PASSWORD',
+                                 host='db',
+                                 database='MYSQL_DATABASE')
+      cursor = cnx.cursor()
+      cnx.start_transaction()
+
+      model_to_send = random.choice(modelos_list)
+
+      agent_id = str(tupla[0])
+      data = tupla[1]
+      path = tupla[2]
+      tupla_id = str(tupla[3])
+      proccessed = str(0)
+
+      sql1 = "INSERT INTO "+model_to_send+ " (agent_id, data, path, proccessed) "+"VALUES ('"+agent_id+"', '"+data+"', '"+path+"', '"+proccessed+"');"
+      sql2 = "UPDATE router SET proccessed = 1 WHERE id = "+tupla_id+"; "
+      try:
+        cursor.execute(sql1)
+        cursor.execute(sql2)
+        # Make sure data is committed to the database
+        cnx.commit()
+        print("Agent_id: "+agent_id+" sended to model "+model_to_send)
+      # except mysql.connector.ProgrammingError as err:
+      except mysql.connector.Error as err:
+        print("Failed inserting on database: {}".format(err))
+        print("Rolling back ...")
+        print(e)
+        db.rollback()  # rollback changes
+        teste_exception(err)
+      # except errors.Error as e:
+      #   print("Rolling back ...")
+      #   print(e)
+      #   db.rollback()  # rollback changes
+      finally:
+        cursor.close()
+        cnx.close()
+
+def backup_funcional_teste_router():
   while True:
     cnx = mysql.connector.connect(user='MYSQL_USER', password='MYSQL_PASSWORD',
                                  host='db',
