@@ -185,7 +185,7 @@
     else
       echo '<td><button>'."No File".'</button></td>';
 
-    echo '<td>'.$path.'</td>';
+    echo '<td class ="path">'.$path.'</td>';
     echo "</tr>";
   }
 
@@ -606,9 +606,26 @@
   //   console.log(final_array[i]);
   // }
 
+
+  // FUNCIONA, MAS TA PEGANDO NO FILE
+  // var maxlen=0;
+  // var tdLongest;
+  // $('table td').each(function(){
+  //   if($(this).text().length > maxlen)
+  //   {
+  //     maxlen = $(this).text().length;
+  //     tdLongest = $(this);
+  //   }
+  // });
+
+  // // console.log(tdLongest.text());
+  // // console.log(maxlen);
+
+  // $('#biggest_path').text(tdLongest.text());
+
   var maxlen=0;
   var tdLongest;
-  $('table td').each(function(){
+  $('.path').each(function(){
     if($(this).text().length > maxlen)
     {
       maxlen = $(this).text().length;
